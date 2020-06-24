@@ -27,3 +27,5 @@ func main() {
 ```
 
 You can **run** this code by clicking the blue button with “Run” written on it:
+
+![Screenshot of Go Playground with arrow pointing to Run button](x/images/play-golang-com_run.png)
