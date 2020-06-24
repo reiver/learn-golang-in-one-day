@@ -43,7 +43,7 @@ If you are having trouble locating the outputted text, it is here:
 Note that what is in between the double quotes in the code. I.e.,…
 ```Go
 	fmt.Println("Hello, playground")
-}
+```
 
 … is what you see in the output. I.e.,…
 ```
@@ -57,13 +57,13 @@ Now let's edit that **Go** **code**.
 Let's change this code:
 ```Go
 	fmt.Println("Hello, playground")
-}
+```
 
 … to be:
 Let's change this code:
 ```Go
 	fmt.Println("Hello world!")
-}
+```
 
 
 So the whole code would become:
