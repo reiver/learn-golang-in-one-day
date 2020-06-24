@@ -50,3 +50,31 @@ Note that what is in between the double quotes in the code. I.e.,…
 Hello, playground
 ```
 
+## Hello world!
+
+Now let's edit that **Go** **code**.
+
+Let's change this code:
+```Go
+	fmt.Println("Hello, playground")
+}
+
+… to be:
+Let's change this code:
+```Go
+	fmt.Println("Hello world!")
+}
+
+
+So the whole code would become:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	fmt.Println("Hello world!")
+}
+```
