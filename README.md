@@ -39,3 +39,14 @@ That outputted text will be displayed at the bottom of the screen, in the white 
 If you are having trouble locating the outputted text, it is here:
 
 ![Screenshot of Go Playground after the default Go code was run with arrow pointing to output](x/images/play-golang-com_ran_with_arrow.png)
+
+Note that what is in between the double quotes in the code. I.e.,…
+```Go
+	fmt.Println("Hello, playground")
+}
+
+… is what you see in the output. I.e.,…
+```
+Hello, playground
+```
+
