@@ -36,3 +36,6 @@ That outputted text will be displayed at the bottom of the screen, in the white 
 
 ![Screenshot of Go Playground after the default Go code was run](x/images/play-golang-com_ran.png)
 
+If you are having trouble locating the outputted text, it is here:
+
+![Screenshot of Go Playground after the default Go code was run with arrow pointing to output](x/images/play-golang-com_ran_with_arrow.png)
