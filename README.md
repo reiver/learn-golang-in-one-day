@@ -34,4 +34,5 @@ After you click the the blue colored button with “Run” written on it, that *
 
 That outputted text will be displayed at the bottom of the screen, in the white colored area:
 
+![Screenshot of Go Playground after the default Go code was run](x/images/play-golang-com_ran.png)
 
