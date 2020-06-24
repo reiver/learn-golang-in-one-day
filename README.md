@@ -26,6 +26,12 @@ func main() {
 }
 ```
 
-You can **run** this code by clicking the blue button with “Run” written on it:
+You can **run** this code by clicking the blue colored button with “Run” written on it:
 
 ![Screenshot of Go Playground with arrow pointing to Run button](x/images/play-golang-com_run.png)
+
+After you click the the blue colored button with “Run” written on it, that **Go** program will output some text.
+
+That outputted text will be displayed at the bottom of the screen, in the white colored area:
+
+
