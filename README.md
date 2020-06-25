@@ -233,6 +233,14 @@ For example:
 * -4
 * -5
 
+Here are some more integers:
+
+* -1234
+* 742
+* -1290387
+* 927693
+* -786320
+
 Let's write a **Go** program that outputs some integers:
 ```Go
 package main
