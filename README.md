@@ -148,3 +148,27 @@ It is a command. It is something we tell the computer to do.
 What `fmt.Println()` means is: **print a line**.
 
 (In fact, “Println” is short for “Print line”.)
+
+Now let's write some code with more than one `fmt.Println()` command:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	fmt.Println("Hello world!")
+	fmt.Println("I am your friendly neighborhood Golang.")
+}
+```
+
+Now run that.
+
+This is what you should see:
+
+![Screenshot of program in Go Playground with 2 fmt.Println](x/images/play-golang-com_println-2.png)
+
+Note that you now have 2 lines of output.
+
+This is because you have 2 `fmt.Println()` commands in your code.
