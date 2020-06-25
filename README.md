@@ -123,4 +123,6 @@ Now run that.
 
 And the output you should see should be something like:
 
+![Screenshot of Hello Name! program in Go Playground after run showing output](x/images/play-golang-com_hello-name_ran.png)
+
 Of course, the name you have outputted will be whatever name you used.
