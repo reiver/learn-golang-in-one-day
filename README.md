@@ -4,6 +4,12 @@
 
 This one day **workshop** aims to help you learn to be able to **code** in **Go**.
 
+## How To Learn
+
+EVEN THOUGH YOU CAN I HAVE SHOWN ALL THE CODE HERE.
+DO NOT COPY-AND-PASTE THE CODE.
+TYPING IT OUT YOURSELF WILL HELP YOU LEARN TO CODE.
+
 ## PLAY.GOLANG.COM
 
 One of the easiest ways to get started with **Go** is by going to https://play.golang.com/
