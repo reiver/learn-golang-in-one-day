@@ -193,3 +193,5 @@ func main() {
 ```
 
 Well, then we get another line of output:
+
+![Screenshot of program in Go Playground with 3 fmt.Println](x/images/play-golang-com_println-3.png)
