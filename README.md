@@ -172,3 +172,20 @@ This is what you should see:
 Note that you now have 2 lines of output.
 
 This is because you have 2 `fmt.Println()` commands in your code.
+
+What if we added another `fmt.Println()`:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	fmt.Println("Hello world!")
+	fmt.Println("I am your friendly neighborhood Golang.")
+	fmt.Println("See you later.")
+}
+```
+
+Well, then we get another line of output:
