@@ -266,6 +266,45 @@ When we run that we should get:
 
 ## CLI — fmt.Scan()
 
+## CLI — Adding Calculator
+
+We now have the skills necessary to create our own very basic **calculator**.
+
+In fact, our calculator will be very very very basic.
+
+All it will do it add 2 numbers that we give it.
+
+Here is the code.
+
+REMEMBER, TYPE THIS CODE OUT YOURSELF. DO NOT COPY-AND-PASTE IT. TYPING IT OUT WILL HELP YOU LEARN IT.
+
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	fmt.Println("Please provide the first number:")
+
+	var firstNumber int
+	fmt.Scan(&firstNumber)
+
+	fmt.Println("Please provide the second number:")
+
+	var secondNumber int
+	fmt.Scan(&secondNumber)
+
+	fmt.Println("Result:")
+	fmt.Println(firstNumber + secondNumber)
+}
+```
+
+Run this program and see if it works.
+
+## Exercise — Subtracting Calculator
+
 ## CLI — os.Args
 
 ## CLI — os.Open()
