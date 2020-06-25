@@ -110,7 +110,7 @@ To something like:
 	fmt.Println("Hello Charles!")
 ```
 
-Of course, instead “Charles” you should put whatever your name is.
+Of course, instead of “Charles” you should put whatever your name is.
 
 So, if your name if “Robert”, then your code would be:
 ```Go
