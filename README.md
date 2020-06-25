@@ -369,3 +369,12 @@ Now that we know how to use the **Go** `switch` statement, we can use it to make
 
 ## drawing — MouseX & MouseY
 
+## drawing — MousePressed
+
+## drawing — if
+
+## drawing — if-else
+
+## drawing — func
+
+## Exercise — Many Faces
