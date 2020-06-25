@@ -360,3 +360,7 @@ Now that we know how to use the **Go** `switch` statement, we can use it to make
 ## Exercise — Draw a Face
 
 ## CLI — drawing — color
+
+## Exercise — Color the Face
+
+## CLI — drawing — Animation
