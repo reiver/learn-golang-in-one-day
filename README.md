@@ -126,3 +126,25 @@ And the output you should see should be something like:
 ![Screenshot of Hello Name! program in Go Playground after run showing output](x/images/play-golang-com_hello-name_ran.png)
 
 Of course, the name you have outputted will be whatever name you used.
+
+## PLAY.GOLANG.COM — fmt.Println()
+
+So far we have just been focusing on what is in between the double quotation marks.
+I.e., with the code:
+```Go
+	fmt.Println("Hello world!")
+```
+We were only paying attention to the:
+```
+	             Hello world!
+```
+
+Now we want to pay attention to the `fmt.Println()` part of it.
+
+What is that‽
+
+It is a command. It is something we tell the computer to do.
+
+What `fmt.Println()` means is: **print a line**.
+
+(In fact, “Println” is short for “Print line”.)
