@@ -262,4 +262,16 @@ When we run that we should get:
 
 ## PLAY.GOLANG.COM — Variables
 
+## CLI
 
+## CLI — fmt.Scan()
+
+## CLI — os.Args
+
+## CLI — os.Open()
+
+## CLI — io.Read
+
+## CLI — io.Write
+
+## CLI — func
