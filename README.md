@@ -305,15 +305,19 @@ Run this program and see if it works.
 
 ## Exercise — Subtracting Calculator
 
-## CLI — for
+## CLI — for-ever
 
 ## CLI — Looping Calculator
+
+## CLI — Exiting Looping Calculator
 
 ## CLI — os.Args
 
 ## CLI — os.Open()
 
 ## CLI — io.Read
+
+## CLI — File Interpreter
 
 ## CLI — io.Write
 
