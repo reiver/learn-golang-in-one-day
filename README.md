@@ -89,7 +89,7 @@ And the output you should see should be:
 
 ![Screenshot of Hello World! program in Go Playground after code was run](x/images/play-golang-com_hello-world_ran.png)
 
-## Hello <YOUR NAME>
+## Hello YOUR NAME
 
 Let's get more personal. Let's make that code say our name.
 
