@@ -267,6 +267,15 @@ When we run that we should get:
 
 ## PLAY.GOLANG.COM — Integer Math
 
+## Exercise — 1+2+3+5+8+13+21
+
+It is now time for you to write a **Go** program of your own.
+
+Write a program that outputs the result of this math operation:
+```
+1+2+3+5+8+13+21
+```
+
 ## PLAY.GOLANG.COM — Variables
 
 ## CLI
