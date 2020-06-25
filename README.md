@@ -329,7 +329,53 @@ Run this program and see if it works.
 
 ## CLI — Multifunctional Calculator
 
+Now that we learned the **Go** `switch` statement, we can create something pretty cool.
+
 Now that we know how to use the **Go** `switch` statement, we can use it to make a calculator handle both **addition**, and **subtraction**.
+
+Most normal calculators don't just handle addition, or just handle subtraction.
+Most normal calculators handle both addition **and** substraction.
+
+So we are going to do that.
+We are going to make a calculator that can handle both addition **and** substraction.
+
+Here is our **Go** **code** for that:
+
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	fmt.Println("Please provide the first number:")
+
+	var firstNumber int
+	fmt.Scan(&firstNumber)
+
+	fmt.Println("Please provide the second number:")
+
+	var secondNumber int
+	fmt.Scan(&secondNumber)
+
+	fmt.Println("Please tell me what operation you want to do:")
+
+	var operation string
+	fmt.Scan(&operation)
+
+	var result int
+	switch operation {
+	case "+":
+		result = firstNumber + secondNumber
+	case "-":
+		result = firstNumber - secondNumber
+	}
+
+	fmt.Println("Result:")
+	fmt.Println(result)
+}
+```
 
 ## Exercise — Add Multiplication To The Multifunctional Calculator
 
