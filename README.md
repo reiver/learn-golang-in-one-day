@@ -50,7 +50,7 @@ Note that what is in between the double quotes in the code. I.e.,…
 Hello, playground
 ```
 
-## Hello world!
+## PLAY.GOLANG.COM — Hello world!
 
 Now let's edit that **Go** **code**.
 
@@ -89,7 +89,7 @@ And the output you should see should be:
 
 ![Screenshot of Hello World! program in Go Playground after code was run](x/images/play-golang-com_hello-world_ran.png)
 
-## Hello YOUR NAME
+## PLAY.GOLANG.COM — Hello YOUR NAME
 
 Let's get more personal. Let's make that code say our name.
 
