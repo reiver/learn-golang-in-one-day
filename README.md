@@ -305,6 +305,10 @@ Run this program and see if it works.
 
 ## Exercise — Subtracting Calculator
 
+## CLI — for
+
+## CLI — Looping Calculator
+
 ## CLI — os.Args
 
 ## CLI — os.Open()
