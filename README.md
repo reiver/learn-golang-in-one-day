@@ -351,16 +351,21 @@ Now that we know how to use the **Go** `switch` statement, we can use it to make
 
 ## CLI — io.Write
 
-## CLI — drawing
+## drawing
 
-## CLI — drawing — rectangle
+## drawing — rectangle
 
-## CLI — drawing — ellipse
+## drawing — ellipse
 
 ## Exercise — Draw a Face
 
-## CLI — drawing — color
+## drawing — color
 
 ## Exercise — Color the Face
 
-## CLI — drawing — Animation
+## drawing — size
+
+## drawing — Animation
+
+## drawing — MouseX & MouseY
+
