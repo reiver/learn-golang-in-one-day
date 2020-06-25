@@ -86,3 +86,5 @@ I.e.,…
 Now run that.
 
 And the output you should see should be:
+
+![Screenshot of Hello World! program in Go Playground after code was run](x/images/play-golang-com_hello-world_ran.png)
