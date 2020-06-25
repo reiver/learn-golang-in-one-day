@@ -258,3 +258,8 @@ func main() {
 
 When we run that we should get:
 
+## PLAY.GOLANG.COM — Integer Math
+
+## PLAY.GOLANG.COM — Variables
+
+
