@@ -134,7 +134,7 @@ I.e., with the code:
 ```Go
 	fmt.Println("Hello world!")
 ```
-We were only paying attention to the:
+… we were only paying attention to the:
 ```
 	             Hello world!
 ```
