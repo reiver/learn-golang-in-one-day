@@ -78,3 +78,11 @@ func main() {
 	fmt.Println("Hello world!")
 }
 ```
+
+I.e.,…
+
+![Screenshot of Hello World! program in Go Playground](x/images/play-golang-com_hello-world.png)
+
+Now run that.
+
+And the output you should see should be:
