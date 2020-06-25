@@ -149,6 +149,8 @@ What `fmt.Println()` means is: **print a line**.
 
 (In fact, “Println” is short for “Print line”.)
 
+## PLAY.GOLANG.COM — fmt.Println() × 2
+
 Now let's write some code with more than one `fmt.Println()` command:
 ```Go
 package main
@@ -172,6 +174,8 @@ This is what you should see:
 Note that you now have 2 lines of output.
 
 This is because you have 2 `fmt.Println()` commands in your code.
+
+## PLAY.GOLANG.COM — fmt.Println() × 3
 
 What if we added another `fmt.Println()`:
 ```Go
