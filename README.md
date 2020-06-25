@@ -213,6 +213,81 @@ Write a **Go** program that outputs 7 lines.
 
 (You decide what each text is on each of those lines)
 
+## Very Basic Go Program Structure
+
+At this point, you may have noticed a pattern.
+
+All these programs start with:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+```
+
+And they end with:
+```Go
+}
+```
+
+And between that beginning, and end is the code we write.
+
+In other words:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+
+	// YOUR
+	//
+	// CODE
+	//
+	// GOES
+	//
+	// HERE
+}
+```
+
+So, for example, I could write:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+
+	fmt.Println("I was here")
+}
+```
+
+Or:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+
+	fmt.Println("MY")
+	fmt.Println("CODE")
+	fmt.Println("IS")
+	fmt.Println("HERE")
+}
+```
+
+Or whatever else I want in that space!
+
 ## PLAY.GOLANG.COM — Integers
 
 So far we have been dealing with **strings**.
