@@ -88,3 +88,39 @@ Now run that.
 And the output you should see should be:
 
 ![Screenshot of Hello World! program in Go Playground after code was run](x/images/play-golang-com_hello-world_ran.png)
+
+## Hello <YOUR NAME>
+
+Let's get more personal. Let's make that code say our name.
+
+So we are going to change this line:
+```Go
+	fmt.Println("Hello world!")
+```
+
+To something like:
+```Go
+	fmt.Println("Hello Charles!")
+```
+
+Of course, instead “Charles” you should put whatever your name is.
+
+So, if your name if “Robert”, then your code would be:
+```Go
+	fmt.Println("Hello Robert!")
+```
+
+And if your name is “Elizabeth”, then your code would be:
+```Go
+	fmt.Println("Hello Elizabeth!")
+```
+
+But I have to show some name in the screenshot, so I'll just use “Charles”:
+
+![Screenshot of Hello Name! program in Go Playground](x/images/play-golang-com_hello-name.png)
+
+Now run that.
+
+And the output you should see should be something like:
+
+Of course, the name you have outputted will be whatever name you used.
