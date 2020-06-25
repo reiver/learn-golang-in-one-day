@@ -195,3 +195,58 @@ func main() {
 Well, then we get another line of output:
 
 ![Screenshot of program in Go Playground with 3 fmt.Println](x/images/play-golang-com_println-3.png)
+
+## Exercise
+
+Now it is your turn write some **Go** **code** on your own.
+
+Here is your exercise.
+
+Write a **Go** program that outputs 7 lines.
+
+(You decide what each text is on each of those lines)
+
+## PLAY.GOLANG.COM — Integers
+
+So far we have been dealing with **strings**.
+**Strings** are the things between the double quotation marks.
+For example:
+```
+	"Hello world!"
+```
+
+**Go** also supports **numbers**.
+
+One type of **number** that go supports are **integers**.
+
+For example:
+
+* 5
+* 4
+* 3
+* 2
+* 1
+* 0
+* -1
+* -2
+* -3
+* -4
+* -5
+
+Let's write a **Go** program that outputs some integers:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	fmt.Println(1001)
+	fmt.Println(-11)
+	fmt.Println(0)
+}
+```
+
+When we run that we should get:
+
