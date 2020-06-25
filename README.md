@@ -309,6 +309,14 @@ Run this program and see if it works.
 
 ## Exercise — Subtracting Calculator
 
+## CLI — switch
+
+## CLI — Multifunctional Calculator
+
+Now that we know how to use the **Go** `switch` statement, we can use it to make a calculator handle both **addition**, and **subtraction**.
+
+## Exercise — Add Multiplication To The Multifunctional Calculator
+
 ## CLI — for-ever
 
 ## CLI — Looping Calculator
@@ -322,6 +330,8 @@ Run this program and see if it works.
 ## CLI — io.Read
 
 ## CLI — Interpreter
+
+## Exercise — Add Division To The Interpreter
 
 ## CLI — io.Write
 
