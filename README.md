@@ -40,7 +40,7 @@ If you are having trouble locating the outputted text, it is here:
 
 ![Screenshot of Go Playground after the default Go code was run with arrow pointing to output](x/images/play-golang-com_ran_with_arrow.png)
 
-Note that what is in between the double quotes in the code. I.e.,…
+Note that what is in between the double quotation marks in the code. I.e.,…
 ```Go
 	fmt.Println("Hello, playground")
 ```
