@@ -264,6 +264,10 @@ When we run that we should get:
 
 ## CLI
 
+## CLI — go run
+
+## CLI — go build
+
 ## CLI — fmt.Scan()
 
 ## CLI — Adding Calculator
@@ -317,8 +321,16 @@ Run this program and see if it works.
 
 ## CLI — io.Read
 
-## CLI — File Interpreter
+## CLI — Interpreter
 
 ## CLI — io.Write
 
-## CLI — func
+## CLI — drawing
+
+## CLI — drawing — rectangle
+
+## CLI — drawing — ellipse
+
+## Exercise — Draw a Face
+
+## CLI — drawing — color
