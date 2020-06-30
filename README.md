@@ -489,6 +489,25 @@ Making this did 2 things:…
 
 ## PLAY.GOLANG.COM — drawing — rectangle
 
+Enough talk, let's draw something.
+
+Here is some **Go** code that will let us draw a rectangle:
+```Go
+package main
+
+import (
+	"github.com/reiver/go-c80"
+)
+
+func main() {
+
+	c80.Rectangle(50,80, 30,20, 4)
+
+	c80.Show()
+}
+```
+
+
 ## PLAY.GOLANG.COM — drawing — ellipse
 
 ## Exercise — Draw a Face
