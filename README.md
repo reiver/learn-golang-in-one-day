@@ -95,6 +95,15 @@ And the output you should see should be:
 
 ![Screenshot of Hello World! program in Go Playground after code was run](x/images/play-golang-com_hello-world_ran.png)
 
+And again notes that what was between the double quotation marks:
+```Go
+	fmt.Println("Hello world!")
+```
+… is what you see in the output. I.e.,…
+```
+Hello world!
+```
+
 ## PLAY.GOLANG.COM — Hello YOUR NAME
 
 Let's get more personal. Let's make that code say our name.
