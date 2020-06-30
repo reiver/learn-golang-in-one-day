@@ -465,6 +465,25 @@ func main() {
 	// HERE
 }
 ```
+Did you notce what changed‽ One thing changed.
+
+This:
+```Go
+import (
+	"fmt"
+)
+```
+
+… changed into this:
+import (
+	"github.com/reiver/go-c80"
+)
+
+Making this did 2 things:…
+
+№1: the `fmt.Println()` function is gone, and
+
+№2: we have a whole bunch of new functions available to use — that all start with `c80.` — that will give us the power to draw images.
 
 ## PLAY.GOLANG.COM —  drawing — rectangle
 
