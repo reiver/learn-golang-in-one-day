@@ -487,9 +487,9 @@ Making this did 2 things:…
 
 №2: we have a whole bunch of new functions available to use — that all start with `c80.` — that will give us the power to draw images.
 
-## PLAY.GOLANG.COM —  drawing — rectangle
+## PLAY.GOLANG.COM — drawing — rectangle
 
-## PLAY.GOLANG.COM —  drawing — ellipse
+## PLAY.GOLANG.COM — drawing — ellipse
 
 ## Exercise — Draw a Face
 
