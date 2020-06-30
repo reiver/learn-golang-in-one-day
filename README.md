@@ -387,6 +387,28 @@ For example:
 3 % 2
 ```
 
+### Code
+
+Let's see create some **Go** code to try all those out:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+
+	fmt.Println(3 + 2)
+	fmt.Println(3 - 2)
+	fmt.Println(3 * 2)
+	fmt.Println(3 / 2)
+	fmt.Println(3 % 2)
+}
+```
+
+When we run that we should get:
+
 
 ## Exercise — 1+2+3+5+8+13+21
 
