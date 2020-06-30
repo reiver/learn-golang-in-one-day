@@ -350,6 +350,17 @@ Write a program that outputs the result of this math operation:
 ```
 1+2+3+5+8+13+21
 ```
+## PLAY.GOLANG.COM —  drawing
+
+## PLAY.GOLANG.COM —  drawing — rectangle
+
+## PLAY.GOLANG.COM —  drawing — ellipse
+
+## Exercise — Draw a Face
+
+## PLAY.GOLANG.COM — drawing — color
+
+## Exercise — Color the Face
 
 ## PLAY.GOLANG.COM — Variables
 
@@ -471,18 +482,6 @@ func main() {
 ## Exercise — Add Division To The Interpreter
 
 ## CLI — io.Write
-
-## drawing
-
-## drawing — rectangle
-
-## drawing — ellipse
-
-## Exercise — Draw a Face
-
-## drawing — color
-
-## Exercise — Color the Face
 
 ## drawing — size
 
