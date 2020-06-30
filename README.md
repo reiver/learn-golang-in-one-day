@@ -475,9 +475,11 @@ import (
 ```
 
 … changed into this:
+```Go
 import (
 	"github.com/reiver/go-c80"
 )
+```
 
 Making this did 2 things:…
 
