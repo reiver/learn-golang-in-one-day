@@ -211,6 +211,10 @@ Well, then we get another line of output:
 
 ![Screenshot of program in Go Playground with 3 fmt.Println](x/images/play-golang-com_println-3.png)
 
+Note that you now have 3 lines of output.
+
+This is because you have 3 fmt.Println() commands in your code.
+
 ## Exercise — fmt.Println()
 
 Now it is your turn write some **Go** **code** on your own.
