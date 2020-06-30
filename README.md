@@ -418,7 +418,53 @@ Write a program that outputs the result of this math operation:
 ```
 1+2+3+5+8+13+21
 ```
-## PLAY.GOLANG.COM —  drawing
+## PLAY.GOLANG.COM — drawing
+
+Let's change things up a bit.
+
+So far the result of all of our **Go** programs has been plain text — letters, numbers, etc.
+
+Let's use **Go** to create some images.
+
+Recall from before that our basic **Go** program structure was:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+
+	// YOUR
+	//
+	// CODE
+	//
+	// GOES
+	//
+	// HERE
+}
+```
+
+So that we can draw images — rather that output plain text — we are going to make one change to that basic **Go** program structure was. This:
+```Go
+package main
+
+import (
+	"github.com/reiver/go-c80"
+)
+
+func main() {
+
+	// YOUR
+	//
+	// CODE
+	//
+	// GOES
+	//
+	// HERE
+}
+```
 
 ## PLAY.GOLANG.COM —  drawing — rectangle
 
