@@ -106,7 +106,7 @@ Hello world!
 
 ## PLAY.GOLANG.COM — Hello YOUR NAME
 
-Let's get more personal. Let's make that code say our name.
+Let's get more personal. Let's make that code say your name.
 
 So we are going to change this line:
 ```Go
