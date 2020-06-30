@@ -67,7 +67,6 @@ Let's change this code:
 ```
 
 … to be:
-Let's change this code:
 ```Go
 	fmt.Println("Hello world!")
 ```
