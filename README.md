@@ -95,7 +95,7 @@ And the output you should see should be:
 
 ![Screenshot of Hello World! program in Go Playground after code was run](x/images/play-golang-com_hello-world_ran.png)
 
-And again notes that what was between the double quotation marks:
+And again note that what was between the double quotation marks:
 ```Go
 	fmt.Println("Hello world!")
 ```
