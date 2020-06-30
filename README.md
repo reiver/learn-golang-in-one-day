@@ -356,6 +356,38 @@ When we run that we should get:
 
 ## PLAY.GOLANG.COM — Integer Math
 
+One common thing people do with **numbers** — including **integers** — is **math**.
+
+For example:
+
+### Addition
+
+```Go
+3 + 2
+```
+
+### Subtration
+
+```Go
+3 - 2
+```
+
+### Multiplication
+
+```Go
+3 * 2
+```
+### Division
+
+```Go
+3 / 2
+```
+
+```Go
+3 % 2
+```
+
+
 ## Exercise — 1+2+3+5+8+13+21
 
 It is now time for you to write a **Go** program of your own.
