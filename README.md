@@ -481,7 +481,7 @@ import (
 )
 ```
 
-Making this did 2 things:…
+Changing this did 2 things:…
 
 №1: the `fmt.Println()` function is gone, and
 
