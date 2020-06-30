@@ -506,7 +506,14 @@ func main() {
 	c80.Show()
 }
 ```
+Now run that.
 
+This is what you should see:
+
+
+## PLAY.GOLANG.COM — drawing — rectangle × 2
+
+## PLAY.GOLANG.COM — drawing — rectangle × 3
 
 ## PLAY.GOLANG.COM — drawing — ellipse
 
