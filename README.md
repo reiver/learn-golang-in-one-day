@@ -352,6 +352,8 @@ func main() {
 
 When we run that we should get:
 
+![Screenshot of Go Playground integers example](x/images/play-golang-com_integers.png)
+
 ## PLAY.GOLANG.COM — Integer Math
 
 ## Exercise — 1+2+3+5+8+13+21
