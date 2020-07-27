@@ -4,6 +4,17 @@
 
 This one day **workshop** aims to help you learn to be able to **code** in **Go**.
 
+## Table of Contents
+
+* [How To Learn](#how-to-learn)
+* [PLAY.GOLANG.COM](#playgolangcom)
+* [PLAY.GOLANG.COM — Hello world!](#playgolangcom--hello-world)
+* [PLAY.GOLANG.COM — Hello YOUR NAME](#playgolangcom--hello-your-name)
+* [PLAY.GOLANG.COM — fmt.Println()](#playgolangcom--fmtprintln)
+* [PLAY.GOLANG.COM — fmt.Println() × 2](#playgolangcom--fmtprintln--2)
+* [PLAY.GOLANG.COM — fmt.Println() × 3](#playgolangcom--fmtprintln--3)
+* [Exercise — fmt.Println()](#exercise--fmtprintln)
+
 ## How To Learn
 
 EVEN THOUGH I HAVE SHOWN ALL THE CODE HERE.
