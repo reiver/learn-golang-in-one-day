@@ -15,6 +15,9 @@ This one day **workshop** aims to help you learn to be able to **code** in **Go*
 * [PLAY.GOLANG.COM — fmt.Println() × 3](#playgolangcom--fmtprintln--3)
 * [Exercise — fmt.Println()](#exercise--fmtprintln)
 * [PLAY.GOLANG.COM — fmt.Println() — multiple × 2](#playgolangcom--fmtprintln--multiple--2)
+* [PLAY.GOLANG.COM — fmt.Println() — multiple × 3](#playgolangcom--fmtprintln--multiple--3)
+* [PLAY.GOLANG.COM — fmt.Println() — multiple × 4](#playgolangcom--fmtprintln--multiple--4)
+* [Exercise — fmt.Println() — multiple](#exercise--fmtprintln--multiple)
 * [Very Basic Go Program Structure](#very-basic-go-program-structure)
 * [PLAY.GOLANG.COM — Integers](#playgolangcom--integers)
 * [PLAY.GOLANG.COM — Integer Math](#playgolangcom--integer-math)
@@ -291,6 +294,12 @@ But with:
 … we have 2 strings inside of `fmt.Println()`.
 
 Let us see what happens when we run that code:
+
+## PLAY.GOLANG.COM — fmt.Println() — multiple × 3
+
+## PLAY.GOLANG.COM — fmt.Println() — multiple × 4
+
+## Exercise — fmt.Println() — multiple
 
 ## Very Basic Go Program Structure
 
