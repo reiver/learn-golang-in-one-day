@@ -606,7 +606,7 @@ Figure out what integer will give you a **blue** color.
 
 Figure out what integer will give you a **grey** color.
 
-## PLAY.GOLANG.COM — drawing — ellipse
+## PLAY.GOLANG.COM — drawing — pixel
 
 ## Exercise — Draw a Face
 
