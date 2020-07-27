@@ -14,7 +14,7 @@ This one day **workshop** aims to help you learn to be able to **code** in **Go*
 * [PLAY.GOLANG.COM — fmt.Println() × 2](#playgolangcom--fmtprintln--2)
 * [PLAY.GOLANG.COM — fmt.Println() × 3](#playgolangcom--fmtprintln--3)
 * [Exercise — fmt.Println()](#exercise--fmtprintln)
-* PLAY.GOLANG.COM — fmt.Println() — multiple
+* PLAY.GOLANG.COM — fmt.Println() — multiple × 2
 * [Very Basic Go Program Structure](#very-basic-go-program-structure)
 * [PLAY.GOLANG.COM — Integers](#playgolangcom--integers)
 * [PLAY.GOLANG.COM — Integer Math](#playgolangcom--integer-math)
@@ -246,7 +246,7 @@ Write a **Go** program that outputs 7 lines.
 
 (You decide what each text is on each of those lines)
 
-## PLAY.GOLANG.COM — fmt.Println() — multiple
+## PLAY.GOLANG.COM — fmt.Println() — multiple × 2
 
 By now you have some familiarity with `fmt.Println()`.
 
