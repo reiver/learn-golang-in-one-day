@@ -14,6 +14,11 @@ This one day **workshop** aims to help you learn to be able to **code** in **Go*
 * [PLAY.GOLANG.COM — fmt.Println() × 2](#playgolangcom--fmtprintln--2)
 * [PLAY.GOLANG.COM — fmt.Println() × 3](#playgolangcom--fmtprintln--3)
 * [Exercise — fmt.Println()](#exercise--fmtprintln)
+* [Very Basic Go Program Structure](#very-basic-go-program-structure)
+* [PLAY.GOLANG.COM — Integers](#playgolangcom--integers)
+* [PLAY.GOLANG.COM — Integer Math](#playgolangcom--integer-math)
+* [Exercise — 1+2+3+5+8+13+21](#exercise--123581321)
+* [PLAY.GOLANG.COM — drawing](#playgolangcom--drawing)
 
 ## How To Learn
 
