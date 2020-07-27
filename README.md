@@ -14,6 +14,7 @@ This one day **workshop** aims to help you learn to be able to **code** in **Go*
 * [PLAY.GOLANG.COM — fmt.Println() × 2](#playgolangcom--fmtprintln--2)
 * [PLAY.GOLANG.COM — fmt.Println() × 3](#playgolangcom--fmtprintln--3)
 * [Exercise — fmt.Println()](#exercise--fmtprintln)
+* PLAY.GOLANG.COM — fmt.Println() — multiple
 * [Very Basic Go Program Structure](#very-basic-go-program-structure)
 * [PLAY.GOLANG.COM — Integers](#playgolangcom--integers)
 * [PLAY.GOLANG.COM — Integer Math](#playgolangcom--integer-math)
@@ -244,6 +245,52 @@ Here is your exercise.
 Write a **Go** program that outputs 7 lines.
 
 (You decide what each text is on each of those lines)
+
+## PLAY.GOLANG.COM — fmt.Println() — multiple
+
+By now you have some familiarity with `fmt.Println()`.
+
+Now watch this:
+
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	fmt.Println("Hello world!", "How are you doing?")
+}
+```
+
+Did you notice that is different?
+
+Look closely at the `fmt.Println()` command:
+```Go
+	fmt.Println("Hello world!", "How are you doing?")
+```
+
+Do you see it?
+
+There are 2 strings in there, and not just 1.
+
+Before we had stuff stuff as:
+```Go
+	fmt.Println("Hello world!")
+	fmt.Println("I am your friendly neighborhood Golang.")
+	fmt.Println("See you later.")
+```
+
+Which all only have 1 string inside of `fmt.Println()`.
+
+But with:
+```Go
+	fmt.Println("Hello world!", "How are you doing?")
+```
+… we have 2 strings inside of `fmt.Println()`.
+
+Let us see what happens when we run that code:
 
 ## Very Basic Go Program Structure
 
