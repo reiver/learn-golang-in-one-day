@@ -429,6 +429,7 @@ func main() {
 
 When we run that we should get:
 
+![Screenshot of Go Playground with Integer Math example](x/images/play-golang-com_integer-math.png)
 
 ## Exercise — 1+2+3+5+8+13+21
 
