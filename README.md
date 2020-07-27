@@ -487,7 +487,7 @@ Changing this did 2 things:…
 
 №2: we have a whole bunch of new functions available to use — that all start with `c80.` — that will give us the power to draw images.
 
-## PLAY.GOLANG.COM — drawing — dye
+## PLAY.GOLANG.COM — drawing — dye — 0
 
 Enough talk, let's draw something.
 
@@ -510,10 +510,20 @@ Now run that.
 
 This is what you should see:
 
+## PLAY.GOLANG.COM — drawing — dye — 1
 
-## PLAY.GOLANG.COM — drawing — rectangle
+Now let's change just one thing in that code.
 
-Here is some **Go** code that will let us draw a rectangle:
+Let's change this:
+```Go
+c80.Draw(c80.Dye(0))
+```
+… to this:
+```go
+c80.Draw(c80.Dye(1))
+```
+
+And thus have:
 ```Go
 package main
 
@@ -523,19 +533,58 @@ import (
 
 func main() {
 
-	c80.Rectangle(50,80, 30,20, 4)
+	c80.Draw(c80.Dye(1))
 
-	c80.Show()
+	c80.Reveal()
 }
 ```
 Now run that.
 
 This is what you should see:
 
+## PLAY.GOLANG.COM — drawing — dye — 2
 
-## PLAY.GOLANG.COM — drawing — rectangle × 2
+Now let's again change just one thing in that code.
 
-## PLAY.GOLANG.COM — drawing — rectangle × 3
+This time let's change this:
+```Go
+c80.Draw(c80.Dye(1))
+```
+… to this:
+```go
+c80.Draw(c80.Dye(2))
+```
+
+And thus have:
+```Go
+package main
+
+import (
+	"github.com/reiver/go-c80"
+)
+
+func main() {
+
+	c80.Draw(c80.Dye(2))
+
+	c80.Reveal()
+}
+```
+Now run that.
+
+This is what you should see:
+
+## Exercise — c80.Dye()
+
+Now it is your turn write some **Go code** on your own.
+
+Here is your exercise.
+
+Figure out what integer will give you a **yellow** color.
+
+Figure out what integer will give you a **blue** color.
+
+Figure out what integer will give you a **grey** color.
 
 ## PLAY.GOLANG.COM — drawing — ellipse
 
