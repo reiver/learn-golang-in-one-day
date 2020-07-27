@@ -487,9 +487,31 @@ Changing this did 2 things:…
 
 №2: we have a whole bunch of new functions available to use — that all start with `c80.` — that will give us the power to draw images.
 
-## PLAY.GOLANG.COM — drawing — rectangle
+## PLAY.GOLANG.COM — drawing — dye
 
 Enough talk, let's draw something.
+
+Here is some **Go** code that will let us draw a rectangle:
+```Go
+package main
+
+import (
+	"github.com/reiver/go-c80"
+)
+
+func main() {
+
+	c80.Draw(c80.Dye(0))
+
+	c80.Reveal()
+}
+```
+Now run that.
+
+This is what you should see:
+
+
+## PLAY.GOLANG.COM — drawing — rectangle
 
 Here is some **Go** code that will let us draw a rectangle:
 ```Go
