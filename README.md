@@ -19,6 +19,10 @@ This one day **workshop** aims to help you learn to be able to **code** in **Go*
 * [PLAY.GOLANG.COM — Integer Math](#playgolangcom--integer-math)
 * [Exercise — 1+2+3+5+8+13+21](#exercise--123581321)
 * [PLAY.GOLANG.COM — drawing](#playgolangcom--drawing)
+* [PLAY.GOLANG.COM — drawing — dye — 0](#playgolangcom--drawing--dye--0)
+* [PLAY.GOLANG.COM — drawing — dye — 1](#playgolangcom--drawing--dye--1)
+* [PLAY.GOLANG.COM — drawing — dye — 2](#playgolangcom--drawing--dye--2)
+* [Exercise — c80.Dye()](#exercise--c80dye)
 
 ## How To Learn
 
