@@ -716,7 +716,41 @@ Figure out what integer will give you a **grey** color.
 
 ## PLAY.GOLANG.ORG — drawing — rectangle
 
+```Go
+package main
+
+import (
+	"github.com/reiver/go-c80"
+)
+
+func main() {
+	c80.Draw(c80.Dye(4))
+
+	c80.Draw(c80.Rectangle(70,50, 50,80, 1))
+
+	c80.Reveal()
+}
+```
+
 ## PLAY.GOLANG.ORG — drawing — more rectangles
+
+```Go
+package main
+
+import (
+	"github.com/reiver/go-c80"
+)
+
+func main() {
+	c80.Draw(c80.Dye(4))
+
+	c80.Draw(c80.Rectangle(70,50, 50,80, 1))
+
+	c80.Draw(c80.Rectangle(140,140, 90,30, 6))
+
+	c80.Reveal()
+}
+```
 
 ## Exercise — Draw a Face
 
