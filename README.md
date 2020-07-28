@@ -4,6 +4,10 @@
 
 This one day **workshop** aims to help you learn to be able to **code** in **Go**.
 
+If you are reading this, or in a class that is covering this, you are here to learn **programming**.
+You may be even _learning programming_ for the first time!
+That is great, this _workshop_ is for you!
+
 ## Table of Contents
 
 * [How To Learn](#how-to-learn)
