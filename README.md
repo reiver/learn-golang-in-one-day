@@ -28,6 +28,11 @@ This one day **workshop** aims to help you learn to be able to **code** in **Go*
 * [PLAY.GOLANG.COM — drawing — dye — 1](#playgolangcom--drawing--dye--1)
 * [PLAY.GOLANG.COM — drawing — dye — 2](#playgolangcom--drawing--dye--2)
 * [Exercise — c80.Dye()](#exercise--c80dye)
+* [PLAY.GOLANG.COM — drawing — rectangle](#playgolangcom--drawing--rectangle)
+* [PLAY.GOLANG.COM — drawing — more rectangle](#playgolangcom--drawing--more-rectangle)
+* [Exercise — Draw a Face](#exercise--draw-a-face)
+
+
 
 ## How To Learn
 
@@ -702,9 +707,15 @@ Figure out what integer will give you a **blue** color.
 
 Figure out what integer will give you a **grey** color.
 
-## PLAY.GOLANG.COM — drawing — pixel
+## PLAY.GOLANG.COM — drawing — rectangle
+
+## PLAY.GOLANG.COM — drawing — more rectangles
 
 ## Exercise — Draw a Face
+
+
+
+## PLAY.GOLANG.COM — drawing — pixel
 
 ## PLAY.GOLANG.COM — drawing — color
 
