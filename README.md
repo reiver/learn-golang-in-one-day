@@ -29,7 +29,7 @@ This one day **workshop** aims to help you learn to be able to **code** in **Go*
 * [PLAY.GOLANG.COM — drawing — dye — 2](#playgolangcom--drawing--dye--2)
 * [Exercise — c80.Dye()](#exercise--c80dye)
 * [PLAY.GOLANG.COM — drawing — rectangle](#playgolangcom--drawing--rectangle)
-* [PLAY.GOLANG.COM — drawing — more rectangle](#playgolangcom--drawing--more-rectangle)
+* [PLAY.GOLANG.COM — drawing — more rectangle](#playgolangcom--drawing--more-rectangles)
 * [Exercise — Draw a Face](#exercise--draw-a-face)
 
 
