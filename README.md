@@ -30,8 +30,9 @@ That is great, this _workshop_ is for you!
   * [PLAY.GOLANG.ORG — Integer Math](#playgolangorg--integer-math)
   * [PLAY.GOLANG.ORG — Integer Math — version 2](#playgolangorg--integer-math--version-2)
   * [Exercise — 1+2+3+5+8+13+21](#exercise--123581321)
-* c80.Dye()
+* c80
   * [PLAY.GOLANG.ORG — drawing](#playgolangorg--drawing)
+* c80.Dye()
   * [PLAY.GOLANG.ORG — drawing — dye — 0](#playgolangorg--drawing--dye--0)
   * [PLAY.GOLANG.ORG — drawing — dye — 1](#playgolangorg--drawing--dye--1)
   * [PLAY.GOLANG.ORG — drawing — dye — 2](#playgolangorg--drawing--dye--2)
