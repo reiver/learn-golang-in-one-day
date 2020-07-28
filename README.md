@@ -7,37 +7,37 @@ This one day **workshop** aims to help you learn to be able to **code** in **Go*
 ## Table of Contents
 
 * [How To Learn](#how-to-learn)
-* [PLAY.GOLANG.COM](#playgolangcom)
-* [PLAY.GOLANG.COM — Hello world!](#playgolangcom--hello-world)
-* [PLAY.GOLANG.COM — Hello YOUR NAME](#playgolangcom--hello-your-name)
-* [PLAY.GOLANG.COM — fmt.Println()](#playgolangcom--fmtprintln)
-* [PLAY.GOLANG.COM — fmt.Println() × 2](#playgolangcom--fmtprintln--2)
-* [PLAY.GOLANG.COM — fmt.Println() × 3](#playgolangcom--fmtprintln--3)
+* [PLAY.GOLANG.ORG](#playgolangorg)
+* [PLAY.GOLANG.ORG — Hello world!](#playgolangorg--hello-world)
+* [PLAY.GOLANG.ORG — Hello YOUR NAME](#playgolangorg--hello-your-name)
+* [PLAY.GOLANG.ORG — fmt.Println()](#playgolangorg--fmtprintln)
+* [PLAY.GOLANG.ORG — fmt.Println() × 2](#playgolangorg--fmtprintln--2)
+* [PLAY.GOLANG.ORG — fmt.Println() × 3](#playgolangorg--fmtprintln--3)
 * [Exercise — fmt.Println()](#exercise--fmtprintln)
-* [PLAY.GOLANG.COM — fmt.Println() — multiple × 2](#playgolangcom--fmtprintln--multiple--2)
-* [PLAY.GOLANG.COM — fmt.Println() — multiple × 3](#playgolangcom--fmtprintln--multiple--3)
-* [PLAY.GOLANG.COM — fmt.Println() — multiple × 4](#playgolangcom--fmtprintln--multiple--4)
+* [PLAY.GOLANG.ORG — fmt.Println() — multiple × 2](#playgolangorg--fmtprintln--multiple--2)
+* [PLAY.GOLANG.ORG — fmt.Println() — multiple × 3](#playgolangorg--fmtprintln--multiple--3)
+* [PLAY.GOLANG.ORG — fmt.Println() — multiple × 4](#playgolangorg--fmtprintln--multiple--4)
 * [Exercise — fmt.Println() — multiple](#exercise--fmtprintln--multiple)
 * [Very Basic Go Program Structure](#very-basic-go-program-structure)
-* [PLAY.GOLANG.COM — Integers](#playgolangcom--integers)
-* [PLAY.GOLANG.COM — Integer Math](#playgolangcom--integer-math)
-* [PLAY.GOLANG.COM — Integer Math — version 2](#playgolangcom--integer-math--version-2)
+* [PLAY.GOLANG.ORG — Integers](#playgolangorg--integers)
+* [PLAY.GOLANG.ORG — Integer Math](#playgolangorg--integer-math)
+* [PLAY.GOLANG.ORG — Integer Math — version 2](#playgolangorg--integer-math--version-2)
 * [Exercise — 1+2+3+5+8+13+21](#exercise--123581321)
-* [PLAY.GOLANG.COM — drawing](#playgolangcom--drawing)
-* [PLAY.GOLANG.COM — drawing — dye — 0](#playgolangcom--drawing--dye--0)
-* [PLAY.GOLANG.COM — drawing — dye — 1](#playgolangcom--drawing--dye--1)
-* [PLAY.GOLANG.COM — drawing — dye — 2](#playgolangcom--drawing--dye--2)
+* [PLAY.GOLANG.ORG — drawing](#playgolangorg--drawing)
+* [PLAY.GOLANG.ORG — drawing — dye — 0](#playgolangorg--drawing--dye--0)
+* [PLAY.GOLANG.ORG — drawing — dye — 1](#playgolangorg--drawing--dye--1)
+* [PLAY.GOLANG.ORG — drawing — dye — 2](#playgolangorg--drawing--dye--2)
 * [Exercise — c80.Dye()](#exercise--c80dye)
-* [PLAY.GOLANG.COM — drawing — rectangle](#playgolangcom--drawing--rectangle)
-* [PLAY.GOLANG.COM — drawing — more rectangles](#playgolangcom--drawing--more-rectangles)
+* [PLAY.GOLANG.ORG — drawing — rectangle](#playgolangorg--drawing--rectangle)
+* [PLAY.GOLANG.ORG — drawing — more rectangles](#playgolangorg--drawing--more-rectangles)
 * [Exercise — Draw a Face](#exercise--draw-a-face)
-* [PLAY.GOLANG.COM — Move the Face](#playgolangcom--move-the-face)
-* [PLAY.GOLANG.COM — Variables](#playgolangcom--variables)
-* [PLAY.GOLANG.COM — Variables — Move the Face](#playgolangcom--variables--move-the-face)
+* [PLAY.GOLANG.ORG — Move the Face](#playgolangorg--move-the-face)
+* [PLAY.GOLANG.ORG — Variables](#playgolangorg--variables)
+* [PLAY.GOLANG.ORG — Variables — Move the Face](#playgolangorg--variables--move-the-face)
 * [Exercise — Move the Face Again](#exercise--move-the-face-again)
-* [PLAY.GOLANG.COM — Many Faces](#playgolangcom--many-faces)
-* [PLAY.GOLANG.COM — functions](#playgolangcom--functions)
-* [PLAY.GOLANG.COM — functions — Many Faces](#playgolangcom--functions--many-faces)
+* [PLAY.GOLANG.ORG — Many Faces](#playgolangorg--many-faces)
+* [PLAY.GOLANG.ORG — functions](#playgolangorg--functions)
+* [PLAY.GOLANG.ORG — functions — Many Faces](#playgolangorg--functions--many-faces)
 * [Exercise — Many Many Faces](#exercise--many-many-faces)
 
 
@@ -48,15 +48,15 @@ DO NOT COPY-AND-PASTE THE CODE.
 TYPE OUT THE CODE YOURSELF.
 TYPING OUT THE CODE YOURSELF WILL HELP YOU LEARN TO CODE.
 
-## PLAY.GOLANG.COM
+## PLAY.GOLANG.ORG
 
-One of the easiest ways to get started with **Go** is by going to https://play.golang.com/
+One of the easiest ways to get started with **Go** is by going to https://play.golang.org/
 
 When you get there you should see something like the following:
 
 ![Screenshot of Go Playground](x/images/play-golang-com.png)
 
-When you go to https://play.golang.com/ , it will have some **Go** **code** in there already for you.
+When you go to https://play.golang.org/ , it will have some **Go** **code** in there already for you.
 
 ```Go
 package main
@@ -94,7 +94,7 @@ Note that what is in between the double quotation marks in the code. I.e.,…
 Hello, playground
 ```
 
-## PLAY.GOLANG.COM — Hello world!
+## PLAY.GOLANG.ORG — Hello world!
 
 Now let's edit that **Go** **code**.
 
@@ -141,7 +141,7 @@ And again note that what was between the double quotation marks:
 Hello world!
 ```
 
-## PLAY.GOLANG.COM — Hello YOUR NAME
+## PLAY.GOLANG.ORG — Hello YOUR NAME
 
 Let's get more personal. Let's make that code say your name.
 
@@ -179,7 +179,7 @@ And the output you should see should be something like:
 
 Of course, the name you have outputted will be whatever name you used.
 
-## PLAY.GOLANG.COM — fmt.Println()
+## PLAY.GOLANG.ORG — fmt.Println()
 
 So far we have just been focusing on what is in between the double quotation marks.
 I.e., with the code:
@@ -201,7 +201,7 @@ What `fmt.Println()` means is: **print a line**.
 
 (In fact, “Println” is short for “Print line”.)
 
-## PLAY.GOLANG.COM — fmt.Println() × 2
+## PLAY.GOLANG.ORG — fmt.Println() × 2
 
 Now let's write some code with more than one `fmt.Println()` command:
 ```Go
@@ -227,7 +227,7 @@ Note that you now have 2 lines of output.
 
 This is because you have 2 `fmt.Println()` commands in your code.
 
-## PLAY.GOLANG.COM — fmt.Println() × 3
+## PLAY.GOLANG.ORG — fmt.Println() × 3
 
 What if we added another `fmt.Println()`:
 ```Go
@@ -262,7 +262,7 @@ Write a **Go** program that outputs 7 lines.
 
 (You decide what each text is on each of those lines)
 
-## PLAY.GOLANG.COM — fmt.Println() — multiple × 2
+## PLAY.GOLANG.ORG — fmt.Println() — multiple × 2
 
 By now you have some familiarity with `fmt.Println()`.
 
@@ -308,9 +308,9 @@ But with:
 
 Let us see what happens when we run that code:
 
-## PLAY.GOLANG.COM — fmt.Println() — multiple × 3
+## PLAY.GOLANG.ORG — fmt.Println() — multiple × 3
 
-## PLAY.GOLANG.COM — fmt.Println() — multiple × 4
+## PLAY.GOLANG.ORG — fmt.Println() — multiple × 4
 
 ## Exercise — fmt.Println() — multiple
 
@@ -389,7 +389,7 @@ func main() {
 
 Or whatever else I want in that space!
 
-## PLAY.GOLANG.COM — Integers
+## PLAY.GOLANG.ORG — Integers
 
 So far we have been dealing with **strings**.
 **Strings** are the things between the double quotation marks.
@@ -443,7 +443,7 @@ When we run that we should get:
 
 ![Screenshot of Go Playground integers example](x/images/play-golang-com_integers.png)
 
-## PLAY.GOLANG.COM — Integer Math
+## PLAY.GOLANG.ORG — Integer Math
 
 One common thing people do with **numbers** — including **integers** — is **math**.
 
@@ -500,7 +500,7 @@ When we run that we should get:
 
 ![Screenshot of Go Playground with Integer Math example](x/images/play-golang-com_integer-math.png)
 
-## PLAY.GOLANG.COM — Integer Math — version 2
+## PLAY.GOLANG.ORG — Integer Math — version 2
 
 The output of that was a bit difficult to read — in that it was a bit difficult to determine which number was the result of which calculation.
 
@@ -546,7 +546,7 @@ Write a program that outputs the result of this math operation:
 ```
 1+2+3+5+8+13+21
 ```
-## PLAY.GOLANG.COM — drawing
+## PLAY.GOLANG.ORG — drawing
 
 Let's change things up a bit.
 
@@ -615,7 +615,7 @@ Changing this did 2 things:…
 
 №2: we have a whole bunch of new functions available to use — that all start with `c80.` — that will give us the power to draw images.
 
-## PLAY.GOLANG.COM — drawing — dye — 0
+## PLAY.GOLANG.ORG — drawing — dye — 0
 
 Enough talk, let's draw something.
 
@@ -638,7 +638,7 @@ Now run that.
 
 This is what you should see:
 
-## PLAY.GOLANG.COM — drawing — dye — 1
+## PLAY.GOLANG.ORG — drawing — dye — 1
 
 Now let's change just one thing in that code.
 
@@ -670,7 +670,7 @@ Now run that.
 
 This is what you should see:
 
-## PLAY.GOLANG.COM — drawing — dye — 2
+## PLAY.GOLANG.ORG — drawing — dye — 2
 
 Now let's again change just one thing in that code.
 
@@ -714,31 +714,31 @@ Figure out what integer will give you a **blue** color.
 
 Figure out what integer will give you a **grey** color.
 
-## PLAY.GOLANG.COM — drawing — rectangle
+## PLAY.GOLANG.ORG — drawing — rectangle
 
-## PLAY.GOLANG.COM — drawing — more rectangles
+## PLAY.GOLANG.ORG — drawing — more rectangles
 
 ## Exercise — Draw a Face
 
-## PLAY.GOLANG.COM — Move the Face
+## PLAY.GOLANG.ORG — Move the Face
 
-## PLAY.GOLANG.COM — Variables
+## PLAY.GOLANG.ORG — Variables
 
-## PLAY.GOLANG.COM — Variables — Move the Face
+## PLAY.GOLANG.ORG — Variables — Move the Face
 
 ## Exercise — Move the Face Again
 
-## PLAY.GOLANG.COM — Many Faces
+## PLAY.GOLANG.ORG — Many Faces
 
-## PLAY.GOLANG.COM — functions
+## PLAY.GOLANG.ORG — functions
 
-## PLAY.GOLANG.COM — functions — Many Faces
+## PLAY.GOLANG.ORG — functions — Many Faces
 
 ## Exercise — Many Many Faces
 
-## PLAY.GOLANG.COM — drawing — pixel
+## PLAY.GOLANG.ORG — drawing — pixel
 
-## PLAY.GOLANG.COM — drawing — color
+## PLAY.GOLANG.ORG — drawing — color
 
 ## Exercise — Color the Face
 
