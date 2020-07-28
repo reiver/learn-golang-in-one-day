@@ -728,6 +728,14 @@ Figure out what integer will give you a **grey** color.
 
 ## Exercise — Move the Face Again
 
+## PLAY.GOLANG.COM — Many Faces
+
+## PLAY.GOLANG.COM — functions
+
+## PLAY.GOLANG.COM — functions — Many Faces
+
+## Exercise — Many Many Faces
+
 ## PLAY.GOLANG.COM — drawing — pixel
 
 ## PLAY.GOLANG.COM — drawing — color
