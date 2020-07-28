@@ -21,6 +21,7 @@ This one day **workshop** aims to help you learn to be able to **code** in **Go*
 * [Very Basic Go Program Structure](#very-basic-go-program-structure)
 * [PLAY.GOLANG.COM — Integers](#playgolangcom--integers)
 * [PLAY.GOLANG.COM — Integer Math](#playgolangcom--integer-math)
+* [PLAY.GOLANG.COM — Integer Math — version 2](#playgolangcom--integer-math--version-2)
 * [Exercise — 1+2+3+5+8+13+21](#exercise--123581321)
 * [PLAY.GOLANG.COM — drawing](#playgolangcom--drawing)
 * [PLAY.GOLANG.COM — drawing — dye — 0](#playgolangcom--drawing--dye--0)
@@ -486,6 +487,44 @@ func main() {
 When we run that we should get:
 
 ![Screenshot of Go Playground with Integer Math example](x/images/play-golang-com_integer-math.png)
+
+## PLAY.GOLANG.COM — Integer Math — version 2
+
+The output of that was a bit difficult to read — in that it was a bit difficult to determine which number was the result of which calculation.
+
+But we can fix that.
+
+Take a look at this code:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+
+	fmt.Println("3 + 2 =", 3 + 2)
+	fmt.Println("3 - 2 =", 3 - 2)
+	fmt.Println("3 * 2 =", 3 * 2)
+	fmt.Println("3 / 2 =", 3 / 2)
+	fmt.Println("3 % 2 =", 3 % 2)
+}
+```
+
+That probably looks weird. Maybe even a bit confusing. So let's break that down.
+
+Recall from before that we can put multiple things in a `fmt.Println()`. For example:
+```Go
+	fmt.Println("Hello world!", "How are you doing?")
+```
+
+That is what we did that in that new code too. We put multiple things in the `fmt.Println()`.
+
+The 1st thing we put in the `fmt.Println()` are strings. The 2nd thing we in the `fmt.Println()` are those integer calculations.
+
+This might make more sense if we just run the code. So let's run the code:
+
 
 ## Exercise — 1+2+3+5+8+13+21
 
