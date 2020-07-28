@@ -10,6 +10,7 @@ That is great, this _workshop_ is for you!
 
 ## Table of Contents
 
+* [Example Programs][#example-programs]
 * [How To Learn](#how-to-learn)
 * [PLAY.GOLANG.ORG](#playgolangorg)
 * [PLAY.GOLANG.ORG — Hello world!](#playgolangorg--hello-world)
@@ -44,6 +45,8 @@ That is great, this _workshop_ is for you!
 * [PLAY.GOLANG.ORG — functions — Many Faces](#playgolangorg--functions--many-faces)
 * [Exercise — Many Many Faces](#exercise--many-many-faces)
 
+## Example Programs
+
 
 ## How To Learn
 
@@ -54,13 +57,13 @@ TYPING OUT THE CODE YOURSELF WILL HELP YOU LEARN TO CODE.
 
 ## PLAY.GOLANG.ORG
 
-One of the easiest ways to get started with **Go** is by going to https://play.golang.org/
+One of the easiest ways to get started with **Go** is by going to the **Go Playground** at https://play.golang.org/
 
 When you get there you should see something like the following:
 
 ![Screenshot of Go Playground](x/images/play-golang-com.png)
 
-When you go to https://play.golang.org/ , it will have some **Go** **code** in there already for you.
+When you go to the Go Playground at https://play.golang.org/ , it will have some **Go** **code** in there already for you.
 
 ```Go
 package main
