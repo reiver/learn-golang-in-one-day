@@ -31,7 +31,9 @@ This one day **workshop** aims to help you learn to be able to **code** in **Go*
 * [PLAY.GOLANG.COM — drawing — rectangle](#playgolangcom--drawing--rectangle)
 * [PLAY.GOLANG.COM — drawing — more rectangle](#playgolangcom--drawing--more-rectangles)
 * [Exercise — Draw a Face](#exercise--draw-a-face)
-
+* [PLAY.GOLANG.COM — Variables](#playgolangcom--variables)
+* [PLAY.GOLANG.COM — Variables — Move Face](#playgolangcom--variables--move-face)
+* [Exercise — Move the Face](#exercise--move-the-face)
 
 
 ## How To Learn
@@ -713,6 +715,11 @@ Figure out what integer will give you a **grey** color.
 
 ## Exercise — Draw a Face
 
+## PLAY.GOLANG.COM — Variables
+
+## PLAY.GOLANG.COM — Variables — Move Face
+
+## Exercise — Move the Face
 
 
 ## PLAY.GOLANG.COM — drawing — pixel
@@ -721,7 +728,6 @@ Figure out what integer will give you a **grey** color.
 
 ## Exercise — Color the Face
 
-## PLAY.GOLANG.COM — Variables
 
 ## CLI
 
