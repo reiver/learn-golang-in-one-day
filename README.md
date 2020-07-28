@@ -35,6 +35,10 @@ This one day **workshop** aims to help you learn to be able to **code** in **Go*
 * [PLAY.GOLANG.COM — Variables](#playgolangcom--variables)
 * [PLAY.GOLANG.COM — Variables — Move the Face](#playgolangcom--variables--move-the-face)
 * [Exercise — Move the Face Again](#exercise--move-the-face-again)
+* [PLAY.GOLANG.COM — Many Faces](#playgolangcom--many-faces)
+* [PLAY.GOLANG.COM — functions](#playgolangcom--functions)
+* [PLAY.GOLANG.COM — functions — Many Faces](#playgolangcom--functions--many-faces)
+* [Exercise — Many Many Faces](#exercise--many-many-faces)
 
 
 ## How To Learn
