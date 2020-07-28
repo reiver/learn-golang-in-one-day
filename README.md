@@ -10,7 +10,7 @@ That is great, this _workshop_ is for you!
 
 ## Table of Contents
 
-* [Example Programs][#example-programs]
+* [Example Programs](#example-programs)
 * [How To Learn](#how-to-learn)
 * [PLAY.GOLANG.ORG](#playgolangorg)
 * [PLAY.GOLANG.ORG — Hello world!](#playgolangorg--hello-world)
