@@ -328,6 +328,18 @@ Let us see what happens when we run that code:
 
 ## Exercise — fmt.Println() — multiple
 
+Now it is again your turn write some **Go** **code** on your own.
+
+Here is your exercise.
+
+Write a **Go** program that outputs 3 lines.
+
+But where the 1st `fmt.Println()` has 1 string.
+The 2nd `fmt.Println()` has 2 strings.
+And the 3rd `fmt.Println()` has 3 strings.
+
+(You decide what each of those strings are.)
+
 ## Very Basic Go Program Structure
 
 At this point, you may have noticed a pattern.
