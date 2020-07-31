@@ -36,7 +36,7 @@ That is great, this _workshop_ is for you!
   * [PLAY.GOLANG.ORG — drawing — dye — 0](#playgolangorg--drawing--dye--0)
   * [PLAY.GOLANG.ORG — drawing — dye — 1](#playgolangorg--drawing--dye--1)
   * [PLAY.GOLANG.ORG — drawing — dye — 2](#playgolangorg--drawing--dye--2)
-  * [c80.Dye() Colors](#c80-colors)
+  * [c80.Dye() Colors](#c80dye-colors)
   * [Exercise — c80.Dye()](#exercise--c80dye)
 * c80.Rectangle()
   * [PLAY.GOLANG.ORG — drawing — rectangle](#playgolangorg--drawing--rectangle)
