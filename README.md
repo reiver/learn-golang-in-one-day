@@ -789,6 +789,14 @@ Figure out what integer will give you a **grey** color.
 
 ## PLAY.GOLANG.ORG — drawing — rectangle
 
+Let's draw more than just a solid color.
+
+Let's draw some rectangles.
+
+The **c80** package has a `c80.Rectangle()` function.
+
+Let's see this in action. Here is some code:
+
 ```Go
 package main
 
@@ -804,6 +812,10 @@ func main() {
 	c80.Reveal()
 }
 ```
+
+And here is what you see when you run this:
+
+
 
 ## PLAY.GOLANG.ORG — drawing — more rectangles
 
