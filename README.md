@@ -635,11 +635,11 @@ import (
 )
 ```
 
-Changing this did 2 things:…
+There are 2 results of this change:…
 
-№1: the `fmt.Println()` function is gone, and
+result №1: the `fmt.Println()` function is gone, and
 
-№2: we have a whole bunch of new functions available to use — that all start with `c80.` — that will give us the power to draw images.
+result №2: we have a whole bunch of new functions available to use — that all start with `c80.` — that will give us the power to draw images.
 
 ## PLAY.GOLANG.ORG — drawing — dye — 0
 
@@ -663,6 +663,8 @@ func main() {
 Now run that.
 
 This is what you should see:
+
+![Screenshot of c80.Dye(0)](x/images/play-golang-org_draw_dye-0.png)
 
 ## PLAY.GOLANG.ORG — drawing — dye — 1
 
@@ -696,6 +698,8 @@ Now run that.
 
 This is what you should see:
 
+![Screenshot of c80.Dye(1)](x/images/play-golang-org_draw_dye-1.png)
+
 ## PLAY.GOLANG.ORG — drawing — dye — 2
 
 Now let's again change just one thing in that code.
@@ -727,6 +731,8 @@ func main() {
 Now run that.
 
 This is what you should see:
+
+![Screenshot of c80.Dye(2)](x/images/play-golang-org_draw_dye-2.png)
 
 ## Exercise — c80.Dye()
 
