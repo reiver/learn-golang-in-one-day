@@ -36,6 +36,7 @@ That is great, this _workshop_ is for you!
   * [PLAY.GOLANG.ORG — drawing — dye — 0](#playgolangorg--drawing--dye--0)
   * [PLAY.GOLANG.ORG — drawing — dye — 1](#playgolangorg--drawing--dye--1)
   * [PLAY.GOLANG.ORG — drawing — dye — 2](#playgolangorg--drawing--dye--2)
+  * [c80.Dye() Colors](#c80-colors)
   * [Exercise — c80.Dye()](#exercise--c80dye)
 * c80.Rectangle()
   * [PLAY.GOLANG.ORG — drawing — rectangle](#playgolangorg--drawing--rectangle)
@@ -645,7 +646,7 @@ result №2: we have a whole bunch of new functions available to use — that al
 
 Enough talk, let's draw something.
 
-Here is some **Go** code that will let us draw a rectangle:
+Here is some **Go** code that will let us draw an image:
 ```Go
 package main
 
@@ -666,9 +667,13 @@ This is what you should see:
 
 ![Screenshot of c80.Dye(0)](x/images/play-golang-org_draw_dye-0.png)
 
+Look at that. There is a completely **black** image at the bottom.
+
+We drew that!
+
 ## PLAY.GOLANG.ORG — drawing — dye — 1
 
-Now let's change just one thing in that code.
+Now let's do the same thing, but change just one thing in that code.
 
 Let's change this:
 ```Go
@@ -678,6 +683,8 @@ c80.Draw(c80.Dye(0))
 ```go
 c80.Draw(c80.Dye(1))
 ```
+
+I.e., change the `0` to a `1`.
 
 And thus have:
 ```Go
@@ -700,9 +707,13 @@ This is what you should see:
 
 ![Screenshot of c80.Dye(1)](x/images/play-golang-org_draw_dye-1.png)
 
+Look at that. We now have completely **red** image.
+
+(Recall that before the image was completely _black_.)
+
 ## PLAY.GOLANG.ORG — drawing — dye — 2
 
-Now let's again change just one thing in that code.
+Now let's do the same thing again, but again change just one thing in that code.
 
 This time let's change this:
 ```Go
@@ -712,6 +723,7 @@ c80.Draw(c80.Dye(1))
 ```go
 c80.Draw(c80.Dye(2))
 ```
+I.e., change the `1` to a `2`.
 
 And thus have:
 ```Go
@@ -733,6 +745,35 @@ Now run that.
 This is what you should see:
 
 ![Screenshot of c80.Dye(2)](x/images/play-golang-org_draw_dye-2.png)
+
+Now the image is completely green.
+
+## c80.Dye() Colors
+
+So, what is going on here?
+
+The first thing going on here is that this line seems to be special:
+```Go
+	c80.Draw(c80.Dye(3))
+```
+
+And changing hat number seems to change the color of the rectangle.
+
+So far we have seen that:
+
+* 0 🡆 black
+* 1 🡆 red
+* 2 🡆 green
+
+What colors do you think these number will give?:
+
+* 3
+* 4
+* 5
+* 6
+* 7
+
+Let's find out!
 
 ## Exercise — c80.Dye()
 
