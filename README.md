@@ -857,11 +857,49 @@ func main() {
 
 	c80.Draw(c80.Rectangle(70,50, 50,80, 1))
 
-	c80.Draw(c80.Rectangle(140,140, 90,30, 6))
+	c80.Draw(c80.Rectangle(90,80, 90,30, 6))
 
 	c80.Reveal()
 }
 ```
+
+Now we have 2 rectangles.
+
+But wait — did you notice that one of the rectangles is blocking the other one?
+
+The first **draw rectangle** command draw a **red rectangle**:
+```Go
+	c80.Draw(c80.Rectangle(70,50, 50,80, 1))
+```
+
+But the second **draw rectangle** command draws a **light-blue rectangle**:
+```Go
+	c80.Draw(c80.Rectangle(90,80, 90,30, 6))
+```
+
+And that **light-blue rectangle** is in front of **red rectangle**.
+
+What does this mean? — **What this means is that the order in which you have these commands matters.
+
+For example, if you switch the 2 **draw rectangle** commands, then **red rectangle** would be in front, and the **light-blue rectangle** would be behind.
+```Go
+package main
+
+import (
+	"github.com/reiver/go-c80"
+)
+
+func main() {
+	c80.Draw(c80.Dye(4))
+
+	c80.Draw(c80.Rectangle(90,80, 90,30, 6))
+
+	c80.Draw(c80.Rectangle(70,50, 50,80, 1))
+
+	c80.Reveal()
+}
+```
+
 
 ## Exercise — Draw a Face
 
