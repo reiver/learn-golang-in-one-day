@@ -4,7 +4,7 @@
 
 This one day **workshop** aims to help you learn to be able to **code** in **Go**.
 
-If you are reading this, or in a class that is covering this, you are here to learn **programming**.
+If you are reading this, or in a class that is covering this, you are here to learn **programming* in **Go**.
 You may be even _learning programming_ for the first time!
 That is great, this _workshop_ is for you!
 
@@ -815,6 +815,32 @@ func main() {
 
 And here is what you see when you run this:
 
+
+
+We have an image that mostly **blue**.
+But there is **red rectangle** draw on it.
+
+How did we get that?
+
+Let's look at our code.
+
+The 1st thing in our code is:
+```Go
+	c80.Draw(c80.Dye(4))
+```
+
+What does that do‽ — it makes it so the whole image is colored **blue**.
+
+And why **blue**‽ — because (as you discovered during the exercise) that `4` gives us **blue**.
+
+OK, but our image isn't just a **blue**. There is a **red rectangle** draw on it too.
+
+That's where the 2nd thing in our code comes into play:
+```Go
+	c80.Draw(c80.Rectangle(70,50, 50,80, 1))
+```
+
+We see the `c80.Rectangle()` function in there. But what do all those numbers mean?
 
 
 ## PLAY.GOLANG.ORG — drawing — more rectangles
