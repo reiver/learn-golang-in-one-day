@@ -145,8 +145,8 @@ don't give up,
 this stuff isn't always easy,
 but that is what coding is like.
 
-And if you learn how to do this, and choose to pursue a career doing this, you can get paid a lot _because_ you are will to **persevere**
-and work for hours, weeks, months, or even years, on a problem until you figure it out and solve it.
+And if you learn how to do this, and choose to pursue a career doing this, you can get paid a lot _because_ you are willing to **persevere** —
+_because_ you are willing to work for hours, weeks, months, or even years, on a problem until you figure it out and solve it.
 
 ## PLAY.GOLANG.ORG
 
