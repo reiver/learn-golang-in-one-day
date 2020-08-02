@@ -56,6 +56,15 @@ That is great, this _workshop_ is for you!
   * [CLI](#cli)
   * [CLI — fmt.Println() × 5](#cli--fmtprintln--5)
   * [CLI — fmt.Scan()](#cli--fmtscan)
+  * [CLI — Adding Calculator](#cli--adding-calculator)
+  * [Exercise — Subtracting Calculator](#exercise--subtracting-calculator)
+* Go switch
+  * [CLI — switch)(#cli--switch)
+  * [CLI — Multifunctional Calculator](#cli--multifunctional-calculator)
+  * [Exercise — Add Multiplication To The Multifunctional Calculator](#exercise--add-multiplication-to-the-multifunctional-calculator)
+* Go for
+  * [CLI — for-ever](#cli--for-ever)
+  * [CLI — Looping Calculator](#cli--looping-calculator)
 
 ## Example Programs
 
