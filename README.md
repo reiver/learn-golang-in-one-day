@@ -107,16 +107,18 @@ TYPING OUT THE CODE YOURSELF WILL HELP YOU LEARN TO CODE.
 
 ## One Secret Of Success: Perseverance
 
-Here is one secret to **learning** how to code.
+Here is one the secrets to **learning** how to code.
 
-It is also to being good — to be very very good — at coding.
+Here is one of the secrets to being good — to be very very good — a programmer.
 
-One the secrets is: **perseverance**.
+It is the same secret.
+
+One of the secrets to success as a programmer is: **perseverance**.
 
 > perseverance (noun): persistence in doing something despite difficulty or delay in achieving success.
 
 One of the reasons software developers — “software developer” is one of the names we call people who can code —
-one of the reasons software developers get paid so much is that they are willing & able to work a problem until it they figure it out, and solve it.
+one of the reasons software developers get paid so much is that they are willing & able to work a problem until it they figure it out and solve it.
 
 Some of these problems might take hours to solve.
 
@@ -129,17 +131,23 @@ Some might even takes months, or years!
 And I am _not_ exaggerating.
 
 Software developers who help create new companies may spend month creating the technology for that new company.
-Some even spend more than a year doing this!
+Some may even spend more than a year doing this!
 
-Some tasks software developers tackle
+Most tasks experienced software developers tackle often take days to weeks.
 
 But software developers get paid a lot to do this.
 
-So when you are learning all this — especially if you learning **programming** & **coding** for the first time —
+
+Infact this is a big part of _why_ software develoeprs_ get paid a lot to do this.
+
+So when you are learning all this — especially if you are learning **programming** & **coding** for the first time —
 keep at it,
 don't give up,
 this stuff isn't always easy,
-but that you keep at it despite it being hard is why you will get paid a lot.
+but that is what coding is like.
+
+And if you learn how to do this, and choose to pursue a career in this, you will get paid a lot _because_ you are will to **persevere**
+and work for hours, weeks, months, or even years, on a problem until you figure it out and solve it.
 
 ## PLAY.GOLANG.ORG
 
