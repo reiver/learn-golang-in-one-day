@@ -133,10 +133,9 @@ And I am _not_ exaggerating.
 Software developers who help create new companies may spend month creating the technology for that new company.
 Some may even spend more than a year doing this!
 
-Most tasks experienced software developers tackle often take days to weeks.
+Most tasks most experienced software developers tackle usually take hours, days, or weeks.
 
-But software developers get paid a lot to do this.
-
+But software developers get paid a lot to do this!
 
 Infact this is a big part of _why_ software develoeprs_ get paid a lot to do this.
 
@@ -146,7 +145,7 @@ don't give up,
 this stuff isn't always easy,
 but that is what coding is like.
 
-And if you learn how to do this, and choose to pursue a career in this, you will get paid a lot _because_ you are will to **persevere**
+And if you learn how to do this, and choose to pursue a career doing this, you can get paid a lot _because_ you are will to **persevere**
 and work for hours, weeks, months, or even years, on a problem until you figure it out and solve it.
 
 ## PLAY.GOLANG.ORG
