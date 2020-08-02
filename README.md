@@ -69,7 +69,9 @@ That is great, this _workshop_ is for you!
   * [CLI — if](#cli--if)
   * [CLI — Exiting Looping Calculator](#cli--exiting-looping-calculator)
 * Go Slices
-  * [CLI — os.Args](cli--osargs)
+  * [Infix Notation](#infix-notation)
+  * [strings.Split()](#stringssplit)
+  * [Infix Adding Calculator](#infix-adding-calculator)
 
 ## Example Programs
 
@@ -1096,7 +1098,11 @@ func main() {
 
 ## CLI — Exiting Looping Calculator
 
-## CLI — os.Args
+## Infix Notation
+
+## strings.Split()
+
+## Infix Adding Calculator
 
 ## CLI — os.Open()
 
