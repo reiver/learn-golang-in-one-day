@@ -954,6 +954,15 @@ We can run this code by clicking the button with “Run” written on it:
 
 ![Screenshot of Go CLI with arrow pointing to Run button](x/images/go-cli_run.png)
 
+After you click the the button with “Run” written on it, that Go program will output some text.
+
+That outputted text will be displayed at the right side of the screen, in the black colored area:
+
+![Screenshot of Go CLI after the default Go code was run](x/images/go-cli_ran.png)
+
+If you are having trouble locating the outputted text, it is here:
+
+
 
 ## CLI — go run
 
