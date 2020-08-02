@@ -12,7 +12,7 @@ That is great, this _workshop_ is for you!
 
 * [Example Programs](#example-programs)
 * [How To Learn](#how-to-learn)
-* [One Secret Of Success: Perseverance](one-secret-of-success-perseverance)
+* [One Secret Of Success: Perseverance](#one-secret-of-success-perseverance)
 * fmt.Println()
   * [PLAY.GOLANG.ORG](#playgolangorg)
   * [PLAY.GOLANG.ORG — Hello world!](#playgolangorg--hello-world)
