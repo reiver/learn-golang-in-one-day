@@ -933,11 +933,24 @@ We are going to switch thing up now. We are going to switch to a alternative Go 
 
 So far we haev been using the Go Playground — https://play.golang.org/
 
-Now we are going to switch to repl.it Go — https://repl.it/languages/go
+Now we are going to switch to **repl.it for Go** — https://repl.it/languages/go
 
 When you go to https://repl.it/languages/go you should see something similar to:
 
 ![Screenshot of Go CLI](x/images/go-cli.png)
+
+Just like when we go to the Go Playground, when we go to _repl.it for Go_ https://repl.it/languages/go , it will have some Go code in there already for us.
+```Go
+package main
+
+import "fmt"
+
+func main() {
+  fmt.Println("Hello World")
+}
+```
+
+We can run this code by clicking the button with “Run” written on it:
 
 
 
