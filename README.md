@@ -30,6 +30,8 @@ That is great, this _workshop_ is for you!
   * [PLAY.GOLANG.ORG — Integer Math](#playgolangorg--integer-math)
   * [PLAY.GOLANG.ORG — Integer Math — version 2](#playgolangorg--integer-math--version-2)
   * [Exercise — 1+2+3+5+8+13+21](#exercise--123581321)
+* Go `import`
+  * [Go import Statements](#go-import-statements)
 * c80
   * [PLAY.GOLANG.ORG — drawing](#playgolangorg--drawing)
 * c80.Dye()
@@ -596,6 +598,76 @@ Write a program that outputs the result of this math operation:
 ```
 1+2+3+5+8+13+21
 ```
+
+## Go import Statements
+
+Recall from before when we went over the **very basic Go program structure** we saw this:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+
+	// YOUR
+	//
+	// CODE
+	//
+	// GOES
+	//
+	// HERE
+}
+```
+
+Before were just focusing on this part:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+
+	// YOUR
+	//
+	// CODE
+	//
+	// GOES
+	//
+	// HERE
+}
+```
+
+And ignoring the rest.
+
+Now, we are going to pay attention to the `import` statements:
+```Go
+import (
+	"fmt"
+)
+```
+
+What does this mean?
+
+Well, in this case, the import part is the `fmt` part:
+```Go
+	"fmt"
+```
+
+This tells Go that we want everything in the `fmt` package.
+
+We can see what is in the Go `fmt` package by looking at the documentation here:
+https://golang.org/pkg/fmt/
+
+There is a lot of stuff in there. But if we look carefully, we will eventually find the `fmt.Println()` function we were using here:
+https://golang.org/pkg/fmt/#Println
+
+Awesome. **So then the `import "fmt"` statement make it so we can use `fmt.Println()`.**
+
+
 ## PLAY.GOLANG.ORG — drawing
 
 Let's change things up a bit.
