@@ -952,6 +952,7 @@ func main() {
 
 We can run this code by clicking the button with “Run” written on it:
 
+![Screenshot of Go CLI with arrow pointing to Run button](x/images/go-cli_run.png)
 
 
 ## CLI — go run
