@@ -120,13 +120,13 @@ One of the secrets to success as a programmer is: **perseverance**.
 One of the reasons software developers — “software developer” is one of the names we call people who can code —
 one of the reasons software developers get paid so much is that they are willing & able to work on a problem until it they figure it out and solve it.
 
-Some of these problems might take hours to solve.
+Some of these problems might take **hours** to solve.
 
-Some of these problems might take days to solves.
+Some of these problems might take **days** to solves.
 
-Some might takes weeks.
+Some might takes **weeks**.
 
-Some might even takes months, or years!
+Some might even takes **months**, or **years**!
 
 And I am _not_ exaggerating.
 
