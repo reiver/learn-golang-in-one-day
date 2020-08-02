@@ -58,14 +58,14 @@ That is great, this _workshop_ is for you!
   * [CLI — fmt.Scan()](#cli--fmtscan)
   * [CLI — Adding Calculator](#cli--adding-calculator)
   * [Exercise — Subtracting Calculator](#exercise--subtracting-calculator)
-* Go switch
+* Go `switch`
   * [CLI — switch](#cli--switch)
   * [CLI — Multifunctional Calculator](#cli--multifunctional-calculator)
   * [Exercise — Add Multiplication To The Multifunctional Calculator](#exercise--add-multiplication-to-the-multifunctional-calculator)
-* Go for
+* Go `for`
   * [CLI — for-ever](#cli--for-ever)
   * [CLI — Looping Calculator](#cli--looping-calculator)
-* Go if
+* Go `if`
   * [CLI — if](#cli--if)
   * [CLI — Exiting Looping Calculator](#cli--exiting-looping-calculator)
 
