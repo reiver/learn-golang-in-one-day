@@ -73,6 +73,8 @@ That is great, this _workshop_ is for you!
   * [strings.Split()](#stringssplit)
   * [Infix Adding Calculator](#infix-adding-calculator)
   * [Exercise — Infix Multifunctional Calculator](#exercise--infix-multifunctional-calculator)
+  * [Exercise — Infix Looping Calculator](#exercise--infix-looping-calculator)
+  * [Exercise — Infix Exiting Looping Calculator](#exercise--exiting-infix-looping-calculator)
 
 ## Example Programs
 
@@ -1106,6 +1108,10 @@ func main() {
 ## Infix Adding Calculator
 
 ## Exercise — Infix Multifunctional Calculator
+
+## Exercise — Infix Looping Calculator
+
+## Exercise — Infix Exiting Looping Calculator
 
 ## CLI — os.Open()
 
