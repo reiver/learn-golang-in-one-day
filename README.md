@@ -68,6 +68,8 @@ That is great, this _workshop_ is for you!
 * Go `if`
   * [CLI — if](#cli--if)
   * [CLI — Exiting Looping Calculator](#cli--exiting-looping-calculator)
+* Go Slices
+  * [CLI — os.Args](cli--osargs)
 
 ## Example Programs
 
