@@ -118,7 +118,7 @@ One of the secrets to success as a programmer is: **perseverance**.
 > perseverance (noun): persistence in doing something despite difficulty or delay in achieving success.
 
 One of the reasons software developers — “software developer” is one of the names we call people who can code —
-one of the reasons software developers get paid so much is that they are willing & able to work a problem until it they figure it out and solve it.
+one of the reasons software developers get paid so much is that they are willing & able to work on a problem until it they figure it out and solve it.
 
 Some of these problems might take hours to solve.
 
