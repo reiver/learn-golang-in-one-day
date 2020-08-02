@@ -59,7 +59,7 @@ That is great, this _workshop_ is for you!
   * [CLI — Adding Calculator](#cli--adding-calculator)
   * [Exercise — Subtracting Calculator](#exercise--subtracting-calculator)
 * Go switch
-  * [CLI — switch)(#cli--switch)
+  * [CLI — switch](#cli--switch)
   * [CLI — Multifunctional Calculator](#cli--multifunctional-calculator)
   * [Exercise — Add Multiplication To The Multifunctional Calculator](#exercise--add-multiplication-to-the-multifunctional-calculator)
 * Go for
