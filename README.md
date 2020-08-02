@@ -137,7 +137,7 @@ Most tasks most experienced software developers tackle usually take hours, days,
 
 But software developers get paid a lot to do this!
 
-Infact this is a big part of _why_ software develoeprs_ get paid a lot to do this.
+Infact this is a big part of _why_ software develoeprs get paid a lot to do this.
 
 So when you are learning all this — especially if you are learning **programming** & **coding** for the first time —
 keep at it,
