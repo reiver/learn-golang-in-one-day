@@ -623,14 +623,6 @@ func main() {
 
 Before were just focusing on this part:
 ```Go
-package main
-
-import (
-	"fmt"
-)
-
-func main() {
-
 	// YOUR
 	//
 	// CODE
@@ -638,7 +630,6 @@ func main() {
 	// GOES
 	//
 	// HERE
-}
 ```
 
 And ignoring the rest.
@@ -651,6 +642,48 @@ import (
 ```
 
 What does this mean?
+
+
+Well, what happens if we take our **Hello world!** program (from before):
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	fmt.Println("Hello world!")
+}
+```
+
+But _remove_ the import statement:
+```Go
+package main
+
+func main() {
+	fmt.Println("Hello world!")
+}
+```
+
+And the run it. Let's see what happens:
+
+
+**We go an error!**
+
+> ./prog.go:4:2: undefined: fmt
+> 
+> Go build failed.
+
+The part that says _“`Go build failed.`”_ tells we got an error — it tells us _something_ is wrong.
+
+The other part that says _“`./prog.go:4:2: undefined: fmt`”_ tells us what is wrong.
+
+That bit that says _“`./prog.go:4:2:`”_ tells us there is an error on **line 4**.
+
+And the bit that says _“undefined: fmt`”_ tells us that the error on _line 4_ is that it doesn't know what `fmt` is.
+
+
 
 Well, in this case, the import part is the `fmt` part:
 ```Go
