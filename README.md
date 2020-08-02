@@ -65,6 +65,9 @@ That is great, this _workshop_ is for you!
 * Go for
   * [CLI — for-ever](#cli--for-ever)
   * [CLI — Looping Calculator](#cli--looping-calculator)
+* Go if
+  * [CLI — if](#cli--if)
+  * [CLI — Exiting Looping Calculator](#cli--exiting-looping-calculator)
 
 ## Example Programs
 
@@ -1086,6 +1089,8 @@ func main() {
 ## CLI — for-ever
 
 ## CLI — Looping Calculator
+
+## CLI — if
 
 ## CLI — Exiting Looping Calculator
 
