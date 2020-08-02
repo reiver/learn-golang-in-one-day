@@ -665,7 +665,32 @@ https://golang.org/pkg/fmt/
 There is a lot of stuff in there. But if we look carefully, we will eventually find the `fmt.Println()` function we were using here:
 https://golang.org/pkg/fmt/#Println
 
-Awesome. **So then the `import "fmt"` statement make it so we can use `fmt.Println()`.**
+Awesome. **So then the `import "fmt"` statement makes it so we can use `fmt.Println()`.**
+
+What if instead of this:
+```Go
+import (
+	"fmt"
+)
+```
+
+We had this:
+```Go
+import (
+	"fmt"
+	"math"
+)
+```
+
+Now we have 2 imports — we are importing packge `fmt`, and we are also importing package `math`.
+
+We already know when we import package `fmt` we bring in everything in here:
+https://golang.org/pkg/fmt/
+
+So, similarly, when we import package `math` we bring in everything from here:
+https://golang.org/pkg/math/
+
+
 
 
 ## PLAY.GOLANG.ORG — drawing
