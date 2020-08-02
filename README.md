@@ -52,7 +52,10 @@ That is great, this _workshop_ is for you!
   * [PLAY.GOLANG.ORG — functions](#playgolangorg--functions)
   * [PLAY.GOLANG.ORG — functions — Many Faces](#playgolangorg--functions--many-faces)
   * [Exercise — Many Many Faces](#exercise--many-many-faces)
-* [CLI](#cli)
+* CLI
+  * [CLI](#cli)
+  * [CLI — fmt.Println() × 5](#cli--fmtprintln--5)
+  * [CLI — fmt.Scan()](#cli--fmtscan)
 
 ## Example Programs
 
@@ -964,10 +967,17 @@ If you are having trouble locating the outputted text, it is here:
 
 ![Screenshot of Go CLI after the default Go code was run with arrow pointing to output](x/images/go-cli_ran-with-arrow.png)
 
+## CLI — fmt.Println() × 5
 
-## CLI — go run
+This repl.it for Go — https://repl.it/languages/go — is new to us.
 
-## CLI — go build
+Let's just make sure we know how to use it.
+
+Here is your exercise.
+
+Write a **Go** program that outputs 5 lines.
+
+(You decide what each of those lines are.)
 
 ## CLI — fmt.Scan()
 
