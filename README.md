@@ -937,7 +937,7 @@ Now we are going to switch to repl.it Go — https://repl.it/languages/go
 
 When you go to https://repl.it/languages/go you should see something similar to:
 
-
+![Screenshot of Go CLI](x/images/go-cli.png)
 
 
 
