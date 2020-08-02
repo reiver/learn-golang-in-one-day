@@ -72,6 +72,7 @@ That is great, this _workshop_ is for you!
   * [Infix Notation](#infix-notation)
   * [strings.Split()](#stringssplit)
   * [Infix Adding Calculator](#infix-adding-calculator)
+  * [Exercise — Infix Multifunctional Calculator](#exercise--infix-multifunctional-calculator)
 
 ## Example Programs
 
@@ -1103,6 +1104,8 @@ func main() {
 ## strings.Split()
 
 ## Infix Adding Calculator
+
+## Exercise — Infix Multifunctional Calculator
 
 ## CLI — os.Open()
 
