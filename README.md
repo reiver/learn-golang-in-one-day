@@ -80,6 +80,22 @@ That is great, this _workshop_ is for you!
 
 ## Example Programs
 
+People write **code**. _Code_ is turned into **programs**. And there are _programs_ everywhere!
+
+Mobile phones have **programs** on them. Some of the programs on mobile phones get called “apps”.
+But the “Android” & “iOS” _operating systems_ that run many of these phones are also **programs**.
+
+Laptops computers also have **programs** on them.
+
+Video game consoles have **programs** on them. For example, the video games you play on these consoles are **programs**.
+
+Flying drones have **programs** on them.
+
+Modern cars have **programs** on them.
+
+Etc etc etc.
+
+**Programs** are all over the place.
 
 ## How To Learn
 
