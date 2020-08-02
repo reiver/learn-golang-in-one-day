@@ -109,9 +109,9 @@ TYPING OUT THE CODE YOURSELF WILL HELP YOU LEARN TO CODE.
 
 Here is one the secrets to **learning** how to code.
 
-Here is one of the secrets to being good — to be very very good — a programmer.
+Here is one of the secrets to being good — to be very very good — as a programmer.
 
-It is the same secret.
+It is the same secret for both.
 
 One of the secrets to success as a programmer is: **perseverance**.
 
