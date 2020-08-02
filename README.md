@@ -52,6 +52,7 @@ That is great, this _workshop_ is for you!
   * [PLAY.GOLANG.ORG — functions](#playgolangorg--functions)
   * [PLAY.GOLANG.ORG — functions — Many Faces](#playgolangorg--functions--many-faces)
   * [Exercise — Many Many Faces](#exercise--many-many-faces)
+* [CLI](#cli)
 
 ## Example Programs
 
@@ -927,6 +928,18 @@ func main() {
 
 
 ## CLI
+
+We are going to switch thing up now. We are going to switch to a alternative Go **development environment**.
+
+So far we haev been using the Go Playground — https://play.golang.org/
+
+Now we are going to switch to repl.it Go — https://repl.it/languages/go
+
+When you go to https://repl.it/languages/go you should see something similar to:
+
+
+
+
 
 ## CLI — go run
 
