@@ -12,6 +12,7 @@ That is great, this _workshop_ is for you!
 
 * [Example Programs](#example-programs)
 * [How To Learn](#how-to-learn)
+* [One Secret Of Success: Perseverance](one-secret-of-success-perseverance)
 * fmt.Println()
   * [PLAY.GOLANG.ORG](#playgolangorg)
   * [PLAY.GOLANG.ORG — Hello world!](#playgolangorg--hello-world)
@@ -103,6 +104,42 @@ EVEN THOUGH I HAVE SHOWN ALL THE CODE HERE.
 DO NOT COPY-AND-PASTE THE CODE.
 TYPE OUT THE CODE YOURSELF.
 TYPING OUT THE CODE YOURSELF WILL HELP YOU LEARN TO CODE.
+
+## One Secret Of Success: Perseverance
+
+Here is one secret to **learning** how to code.
+
+It is also to being good — to be very very good — at coding.
+
+One the secrets is: **perseverance**.
+
+> perseverance (noun): persistence in doing something despite difficulty or delay in achieving success.
+
+One of the reasons software developers — “software developer” is one of the names we call people who can code —
+one of the reasons software developers get paid so much is that they are willing & able to work a problem until it they figure it out, and solve it.
+
+Some of these problems might take hours to solve.
+
+Some of these problems might take days to solves.
+
+Some might takes weeks.
+
+Some might even takes months, or years!
+
+And I am _not_ exaggerating.
+
+Software developers who help create new companies may spend month creating the technology for that new company.
+Some even spend more than a year doing this!
+
+Some tasks software developers tackle
+
+But software developers get paid a lot to do this.
+
+So when you are learning all this — especially if you learning **programming** & **coding** for the first time —
+keep at it,
+don't give up,
+this stuff isn't always easy,
+but that you keep at it despite it being hard is why you will get paid a lot.
 
 ## PLAY.GOLANG.ORG
 
