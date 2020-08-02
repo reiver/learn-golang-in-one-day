@@ -962,6 +962,7 @@ That outputted text will be displayed at the right side of the screen, in the bl
 
 If you are having trouble locating the outputted text, it is here:
 
+![Screenshot of Go CLI after the default Go code was run with arrow pointing to output](x/images/go-cli_ran-with-arrow.png)
 
 
 ## CLI — go run
