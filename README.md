@@ -98,18 +98,20 @@ func main() {
 
 We often shorten **source code** to just **code**:
 
-People write code to tell computers what to do.
+So — people write **code**.
+
+People write **code** to tell computers what to do.
 
 People who write **code** are often called:
 
-* programmers,
-* software engineers,
-* software developers,
-* coders.
+* **programmers**,
+* **software engineers**,
+* **software developers**,
+* **coders**.
 
-(New labels for people who write code seem to be created every so often.)
+(New labels for _people who write code_ seem to be created every so often.)
 
-Often computers understand the **code**. In these cases, the **code** needs to be turned into a **program**.
+Often ‘computers’ do NOT understand the **code**. In these cases the **code** needs to be turned into a **program**.
 
 A **program** that is meant to be used by a regular person is called an **application**.
 
