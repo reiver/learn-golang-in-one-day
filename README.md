@@ -145,7 +145,7 @@ TYPING OUT THE CODE YOURSELF WILL HELP YOU LEARN TO CODE.
 
 Here is one the secrets to **learning** how to code.
 
-Here is one of the secrets to being good — to be very very good — as a programmer.
+Here is one of the secrets to becoming good — to becoming very very good — at programming.
 
 It is the same secret for both.
 
