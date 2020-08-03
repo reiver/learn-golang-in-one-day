@@ -11,7 +11,7 @@ That is great, this _workshop_ is for you!
 
 ## Table of Contents
 
-* [Words and Meanings](#[words-and-meanings)
+* [Words and Meanings](#words-and-meanings)
 * [Example Programs](#example-programs)
 * [How To Learn](#how-to-learn)
 * [One Secret Of Success: Perseverance](#one-secret-of-success-perseverance)
