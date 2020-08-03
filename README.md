@@ -100,16 +100,28 @@ We often shorten **source code** to just **code**:
 
 So — people write **code**.
 
-People write **code** to tell computers what to do.
+Why do people write **code** — People write **code** to tell computers what to do.
 
-People who write **code** are often called:
+The people who write **code** are often called:
 
-* **programmers**,
-* **software engineers**,
-* **software developers**, and
-* **coders**.
+* **programmer**,
+* **computer scientist**,
+* **software engineer**,
+* **software architect**,
+* **software developer**, and
+* **coder**.
 
-(New labels for _people who write code_ seem to be created every so often.)
+Some older labels for _people who write code_ that don't seem to be used that much anymore include:
+
+* a **computer analyst**, and
+* a **system analyst**.
+
+Some newer labels I have seen for _people who write code_ include:
+
+* **software scientist**,
+* **cyber lord**.
+
+New labels for _people who write code_ seem to be created every so often.
 
 The act of writing **code** is often called:
 
