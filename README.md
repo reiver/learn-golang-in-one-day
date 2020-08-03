@@ -106,10 +106,15 @@ People who write **code** are often called:
 
 * **programmers**,
 * **software engineers**,
-* **software developers**,
+* **software developers**, and
 * **coders**.
 
 (New labels for _people who write code_ seem to be created every so often.)
+
+The act of writing **code** is often called:
+
+* **programming**, and
+* **coding**.
 
 Often ‘computers’ do NOT understand the **code**. In these cases the **code** needs to be turned into a **program**.
 
@@ -153,8 +158,7 @@ One of the secrets to success as a programmer is: **perseverance**.
 
 > perseverance (noun): persistence in doing something despite difficulty or delay in achieving success.
 
-One of the reasons software developers — “software developer” is one of the names we call people who can code —
-one of the reasons software developers get paid so much is that they are willing & able to work on a problem until it they figure it out and solve it.
+One of the reasons software developers get paid so much is that they are willing & able to work on a problem until they figure it out and solve it.
 
 Some of these problems might take **hours** to solve.
 
@@ -166,7 +170,7 @@ Some might even takes **months**, or **years**!
 
 And I am _not_ exaggerating.
 
-Software developers who help create new companies may spend month creating the technology for that new company.
+A software developer who helps create new companies may spend months creating the technology for that new company.
 Some may even spend more than a year doing this!
 
 Most tasks most experienced software developers tackle usually take hours, days, or weeks.
@@ -175,11 +179,11 @@ But software developers get paid a lot to do this!
 
 Infact this is a big part of _why_ software develoeprs get paid a lot to do this.
 
-So when you are learning all this — especially if you are learning **programming** & **coding** for the first time —
+So when you are learning all this — especially if you are learning **programming** for the first time —
 keep at it,
 don't give up,
 this stuff isn't always easy,
-but that is what coding is like.
+but that is what programming is like.
 
 And if you learn how to do this, and choose to pursue a career doing this, you can get paid a lot _because_ you are willing to **persevere** —
 _because_ you are willing to work for hours, weeks, months, or even years, on a problem until you figure it out and solve it.
