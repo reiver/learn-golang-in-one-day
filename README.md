@@ -11,6 +11,7 @@ That is great, this _workshop_ is for you!
 
 ## Table of Contents
 
+* [Words and Meanings](#[words-and-meanings)
 * [Example Programs](#example-programs)
 * [How To Learn](#how-to-learn)
 * [One Secret Of Success: Perseverance](#one-secret-of-success-perseverance)
@@ -80,9 +81,41 @@ That is great, this _workshop_ is for you!
   * [Exercise — Infix Looping Calculator](#exercise--infix-looping-calculator)
   * [Exercise — Infix Exiting Looping Calculator](#exercise--exiting-infix-looping-calculator)
 
-## Example Programs
+## Words and Meanings
 
-People write **code**. _Code_ is turned into **programs**. And there are _programs_ everywhere!
+People write **source code**.  For example:
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	fmt.Println("Hello world!")
+}
+```
+
+We often shorten **source code** to just **code**:
+
+People write code to tell computers what to do.
+
+People who write **code** are often called:
+
+* programmers,
+* software engineers,
+* software developers,
+* coders.
+
+(New labels for people who write code seem to be created every so often.)
+
+Often computers understand the **code**. In these cases, the **code** needs to be turned into a **program**.
+
+A **program** that is meant to be used by a regular person is called an **application**.
+
+We often shorten **application** to just **app**.
+
+## Example Programs
 
 Mobile phones have **programs** on them. Some of the programs on mobile phones get called “apps”.
 But the “Android” & “iOS” _operating systems_ that run many of these phones are also **programs**.
