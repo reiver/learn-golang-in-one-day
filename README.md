@@ -73,7 +73,7 @@ That is great, this _workshop_ is for you!
 * Go `if`
   * [CLI — if](#cli--if)
   * [CLI — Exiting Looping Calculator](#cli--exiting-looping-calculator)
-* Go Slices
+* [Go Slices](#go-slices)
   * [Infix Notation](#infix-notation)
   * [strings.Split()](#stringssplit)
   * [Infix Adding Calculator](#infix-adding-calculator)
@@ -1355,9 +1355,17 @@ ____________________
 
 ____________________
 
-____________________
-
 ### Infix Notation
+
+Our calculator has become pretty sophisticated.
+
+However, it is still lacking.
+
+Many people are used to writing expressions such as:
+
+> 3 + 2
+
+But our calculator does _not_ let us write something like that yet.
 
 ### strings.Split()
 
