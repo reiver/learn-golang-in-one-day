@@ -104,6 +104,7 @@ Why do people write **code** — People write **code** to tell computers what to
 
 The people who write **code** are often called:
 
+* **computer programmer**,
 * **programmer**,
 * **computer scientist**,
 * **software engineer**,
@@ -114,10 +115,10 @@ The people who write **code** are often called:
 
 Some older labels for _people who write code_ that don't seem to be used that much anymore include:
 
-* a **computer analyst**, and
-* a **system analyst**.
+* **computer analyst**, and
+* **system analyst**.
 
-Some newer labels I have seen for _people who write code_ include:
+Some newer (but less common) labels I have seen for _people who write code_ include:
 
 * **software scientist**,
 * **cyber lord**.
@@ -126,7 +127,7 @@ New labels for _people who write code_ seem to be created every so often.
 
 The act of writing **code** is often called:
 
-* **programming**, and
+* **programming**, or
 * **coding**.
 
 Often ‘computers’ do NOT understand the **code**. In these cases the **code** needs to be turned into a **program**.
