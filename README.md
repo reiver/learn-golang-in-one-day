@@ -1347,17 +1347,31 @@ func main() {
 
 ## CLI — Exiting Looping Calculator
 
-## Infix Notation
+____________________
 
-## strings.Split()
+____________________
 
-## Infix Adding Calculator
+## Go Slices
 
-## Exercise — Infix Multifunctional Calculator
+____________________
 
-## Exercise — Infix Looping Calculator
+____________________
 
-## Exercise — Infix Exiting Looping Calculator
+### Infix Notation
+
+### strings.Split()
+
+### Infix Adding Calculator
+
+### Exercise — Infix Multifunctional Calculator
+
+### Exercise — Infix Looping Calculator
+
+### Exercise — Infix Exiting Looping Calculator
+
+____________________
+
+____________________
 
 ## CLI — os.Open()
 
