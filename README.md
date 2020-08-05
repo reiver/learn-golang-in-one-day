@@ -130,7 +130,9 @@ The act of writing **code** is often called:
 * **programming**, or
 * **coding**.
 
-Often ‘computers’ do NOT understand the **code**. In these cases the **code** needs to be turned into a **program**.
+Often ‘computers’ do NOT understand the **code**. In these cases the **code** can be turned into a **program**.
+
+The **program** will contain **instructions** that the ‘computer’ will understand.
 
 A **program** that is meant to be used by a regular person is called an **application**.
 
