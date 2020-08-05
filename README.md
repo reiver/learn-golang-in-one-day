@@ -1365,7 +1365,7 @@ Our calculator has become pretty sophisticated.
 
 However, it is still lacking.
 
-Many people are used to writing expressions such as:
+Many people are used to just writing expressions such as:
 
 > 3 + 2
 
@@ -1373,7 +1373,7 @@ And then having the calculator respond with:
 
 > 5
 
-But that is _not_ what our calculator does. Our (current) calculator first asks us:
+But that is currently _not_ what how our calculator works. Our (current) calculator first asks us:
 
 > Please provide the first number:
 
@@ -1395,7 +1395,7 @@ And then our (current) calculator finally asks us:
 
 And then we enter:
 
-> +
+> \+
 
 And then finally our calculator responds with:
 
