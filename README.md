@@ -1351,6 +1351,10 @@ ____________________
 
 ____________________
 
+____________________
+
+____________________
+
 ## Go Slices
 
 ____________________
@@ -1365,9 +1369,99 @@ Many people are used to writing expressions such as:
 
 > 3 + 2
 
-But our calculator does _not_ let us write something like that yet.
+And then having the calculator respond with:
+
+> 5
+
+But that is _not_ what our calculator does. Our (current) calculator first asks us:
+
+> Please provide the first number:
+
+And then we enter:
+
+> 3
+
+And then our (current) calculator next asks us:
+
+> Please provide the second number:
+
+And then we enter:
+
+> 2
+
+And then our (current) calculator finally asks us:
+
+> Please tell me what operation you want to do:
+
+And then we enter:
+
+> +
+
+And then finally our calculator responds with:
+
+> Result:
+> 5
+
+Our current experience is a lot different than just writing:
+
+> 3 + 2
+
+Let's make it so our calculator can understand us writing:
+
+> 3 + 2
+
+Or:
+
+> 3 - 2
+
+Or:
+
+> 3 * 2
+
+Or:
+
+> 3 / 2
+
+Etc.
+
+But we need learn something _before_ can make this happen.
 
 ### strings.Split()
+
+At this point, we need to learn about the **`strings.Split()`** function, and **Go slices**.
+
+So, because we want to focus on those two, let's for now work with simpler code (than our full-blown calculator):
+```Go
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+
+	fmt.Println("Please enter a mathematical expression:")
+
+	var expression string
+	fmt.Scan(&expression)
+}
+```
+
+If we run that, we will see this:
+
+
+In that screenshot, we ran it, but the program is waiting for use to _enter a mathematical expression_:
+
+So we will enter:
+
+> 3 + 2
+
+
+Which you can see here:
+
+
+
+
 
 ### Infix Adding Calculator
 
@@ -1376,6 +1470,10 @@ But our calculator does _not_ let us write something like that yet.
 ### Exercise — Infix Looping Calculator
 
 ### Exercise — Infix Exiting Looping Calculator
+
+____________________
+
+____________________
 
 ____________________
 
