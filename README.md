@@ -16,7 +16,7 @@ That is great, this _workshop_ is for you!
   * [Example Programs](#example-programs)
   * [How To Learn](#how-to-learn)
   * [One Secret Of Success: Perseverance](#one-secret-of-success-perseverance)
-* fmt.Println()
+* [fmt.Println()](#fmtprintln)
   * [PLAY.GOLANG.ORG](#playgolangorg)
   * [PLAY.GOLANG.ORG — Hello world!](#playgolangorg--hello-world)
   * [PLAY.GOLANG.ORG — Hello YOUR NAME](#playgolangorg--hello-your-name)
@@ -225,7 +225,11 @@ ____________________
 
 ____________________
 
-## PLAY.GOLANG.ORG
+## fmt.Println()
+
+____________________
+
+### PLAY.GOLANG.ORG
 
 One of the easiest ways to get started with **Go** is by going to the **Go Playground** at https://play.golang.org/
 
@@ -271,7 +275,7 @@ Note that what is in between the double quotation marks in the code. I.e.,…
 Hello, playground
 ```
 
-## PLAY.GOLANG.ORG — Hello world!
+### PLAY.GOLANG.ORG — Hello world!
 
 Now let's edit that **Go** **code**.
 
@@ -318,7 +322,7 @@ And again note that what was between the double quotation marks:
 Hello world!
 ```
 
-## PLAY.GOLANG.ORG — Hello YOUR NAME
+### PLAY.GOLANG.ORG — Hello YOUR NAME
 
 Let's get more personal. Let's make that code say your name.
 
@@ -356,7 +360,7 @@ And the output you should see should be something like:
 
 Of course, the name you have outputted will be whatever name you used.
 
-## PLAY.GOLANG.ORG — fmt.Println()
+### PLAY.GOLANG.ORG — fmt.Println()
 
 So far we have just been focusing on what is in between the double quotation marks.
 I.e., with the code:
@@ -378,7 +382,7 @@ What `fmt.Println()` means is: **print a line**.
 
 (In fact, “Println” is short for “Print line”.)
 
-## PLAY.GOLANG.ORG — fmt.Println() × 2
+### PLAY.GOLANG.ORG — fmt.Println() × 2
 
 Now let's write some code with more than one `fmt.Println()` command:
 ```Go
@@ -404,7 +408,7 @@ Note that you now have 2 lines of output.
 
 This is because you have 2 `fmt.Println()` commands in your code.
 
-## PLAY.GOLANG.ORG — fmt.Println() × 3
+### PLAY.GOLANG.ORG — fmt.Println() × 3
 
 What if we added another `fmt.Println()`:
 ```Go
@@ -429,7 +433,7 @@ Note that you now have 3 lines of output.
 
 This is because you have 3 fmt.Println() commands in your code.
 
-## Exercise — fmt.Println()
+### Exercise — fmt.Println()
 
 Now it is your turn write some **Go** **code** on your own.
 
@@ -439,7 +443,7 @@ Write a **Go** program that outputs 7 lines.
 
 (You decide what each text is on each of those lines)
 
-## PLAY.GOLANG.ORG — fmt.Println() — multiple × 2
+### PLAY.GOLANG.ORG — fmt.Println() — multiple × 2
 
 By now you have some familiarity with `fmt.Println()`.
 
@@ -485,11 +489,11 @@ But with:
 
 Let us see what happens when we run that code:
 
-## PLAY.GOLANG.ORG — fmt.Println() — multiple × 3
+### PLAY.GOLANG.ORG — fmt.Println() — multiple × 3
 
-## PLAY.GOLANG.ORG — fmt.Println() — multiple × 4
+### PLAY.GOLANG.ORG — fmt.Println() — multiple × 4
 
-## Exercise — fmt.Println() — multiple
+### Exercise — fmt.Println() — multiple
 
 Now it is again your turn write some **Go** **code** on your own.
 
@@ -502,6 +506,14 @@ The 2nd `fmt.Println()` has 2 strings.
 And the 3rd `fmt.Println()` has 3 strings.
 
 (You decide what each of those strings are.)
+
+____________________
+
+____________________
+
+____________________
+
+____________________
 
 ## Very Basic Go Program Structure
 
