@@ -212,7 +212,7 @@ When you get there you should see something like the following:
 
 ![Screenshot of Go Playground](x/images/play-golang-com.png)
 
-When you go to the Go Playground at https://play.golang.org/ , it will have some **Go** **code** in there already for you.
+When you go to the **Go Playground** at https://play.golang.org/ , it will have some **Go** **code** in there already for you.
 
 ```Go
 package main
@@ -1197,9 +1197,9 @@ func main() {
 
 ## CLI
 
-We are going to switch thing up now. We are going to switch to a alternative Go **development environment**.
+We are going to switch things up now. We are going to switch to an alternative Go **development environment**.
 
-So far we haev been using the Go Playground — https://play.golang.org/
+So far we haev been using the **Go Playground** — https://play.golang.org/
 
 Now we are going to switch to **repl.it for Go** — https://repl.it/languages/go
 
