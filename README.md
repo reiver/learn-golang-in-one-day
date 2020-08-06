@@ -17,6 +17,7 @@ That is great, this _workshop_ is for you!
   * [Example Programs](#example-programs)
   * [How To Learn](#how-to-learn)
   * [One Secret Of Success: Perseverance](#one-secret-of-success-perseverance)
+  * [You Learn Through Failure And Suffering](#you-learn-through-failure-and-suffering)
 * [fmt.Println()](#fmtprintln)
   * [PLAY.GOLANG.ORG](#playgolangorg)
   * [PLAY.GOLANG.ORG — Hello world!](#playgolangorg--hello-world)
@@ -250,6 +251,28 @@ but that is what programming is like.
 
 And if you learn how to do this, and choose to pursue a career doing this, you can get paid a lot _because_ you are willing to **persevere** —
 _because_ you are willing to work for hours, weeks, months, or even years, on a problem until you figure it out and solve it.
+
+### You Learn Through Failure And Suffering
+
+There are different ways you learn.
+
+One way is by learning from other people.
+
+Another way is by trying stuff, making mistakes, and learning from those mistakes.
+
+Some mistakes are failtures.
+
+When you make some mistakes you might suffer.
+
+That is OK. That is part of how you learn.
+
+You learn form failure.
+
+You learn from sufferring.
+
+Don't be afraid to fail. Don't be afraid to suffer.
+
+It is normal.
 
 ____________________
 
