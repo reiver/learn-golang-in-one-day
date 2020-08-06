@@ -177,9 +177,13 @@ Often ‘computers’ do NOT understand the **code** directly. In these cases th
 
 The **program** will contain **instructions** that the ‘computer’ will understand.
 
+(In this workshop we will write thes instructions to the computer in the **Go** programming language — **BUT** the computer doesn't actually understand **code** written in the **Go** programming language. So we will have to turn our **Go** **code** into a **program**. The computer will understand the **instructions** contained in the **program**.)
+
 A **program** that is meant to be used by a regular person is called an **application**.
 
 We often shorten **application** to just **app**.
+
+(On your mobile phone, you often have icons you can touch to start the **app**.)
 
 ### Example Programs
 
