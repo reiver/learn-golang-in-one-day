@@ -59,7 +59,7 @@ That is great, this _workshop_ is for you!
   * [Exercise — Many Many Faces](#exercise--many-many-faces)
 * CLI
   * [CLI](#cli)
-  * [CLI — fmt.Println() × 5](#cli--fmtprintln--5)
+  * [Exercise — CLI — fmt.Println() × 5](#exercise--cli--fmtprintln--5)
   * [CLI — rcv.Readln()](#cli--rcvreadln)
   * [CLI — Adding Calculator](#cli--adding-calculator)
   * [Exercise — Subtracting Calculator](#exercise--subtracting-calculator)
@@ -1207,7 +1207,7 @@ When you go to https://repl.it/languages/go you should see something similar to:
 
 ![Screenshot of Go CLI](x/images/go-cli.png)
 
-Just like when we go to the Go Playground, when we go to _repl.it for Go_ https://repl.it/languages/go , it will have some Go code in there already for us.
+Just like when we went to the Go Playground, when we go to _repl.it for Go_ https://repl.it/languages/go , it will have some Go code in there already for us.
 ```Go
 package main
 
@@ -1232,15 +1232,15 @@ If you are having trouble locating the outputted text, it is here:
 
 ![Screenshot of Go CLI after the default Go code was run with arrow pointing to output](x/images/go-cli_ran-with-arrow.png)
 
-## CLI — fmt.Println() × 5
+## Exercise — CLI — fmt.Println() × 5
 
-This repl.it for Go — https://repl.it/languages/go — is new to us.
+Because this**repl.it for Go**— https://repl.it/languages/go — is new to us.
 
 Let's just make sure we know how to use it.
 
 Here is your exercise.
 
-Write a **Go** program that outputs 5 lines.
+Write a **Go** program that outputs 5 lines using the **repl.it for Go** — https://repl.it/languages/go
 
 (You decide what each of those lines are.)
 
