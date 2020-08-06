@@ -82,6 +82,7 @@ That is great, this _workshop_ is for you!
   * [Exercise — Infix Multifunctional Calculator](#exercise--infix-multifunctional-calculator)
   * [Exercise — Infix Looping Calculator](#exercise--infix-looping-calculator)
   * [Exercise — Infix Exiting Looping Calculator](#exercise--exiting-infix-looping-calculator)
+* [Thank You]
 
 ____________________
 
@@ -1836,3 +1837,29 @@ ____________________
 ## drawing — func
 
 ## Exercise — Many Faces
+
+____________________
+
+____________________
+
+____________________
+
+____________________
+
+## Thank You
+
+Connect With Me:
+
+* http://changelog.ca/
+* https://github.com/reiver
+* https://twitter.com/reiver (personal)
+* https://twitter.com/AskCharles (Tech only)
+* https://www.linkedin.com/in/charlesiliyakrempeaux
+
+**Learn (More) With Me**:
+
+If you would like to continue with your education, I am part of [CompSci Academy](https://compsci.academy/), and we have a 12 week course that can take you programming & Go skills to the next leve.
+> CompSci Academy — https://compsci.academy/
+
+Also, if the pace of this course was a bit too fast for you, [CompSci Academy](https://compsci.academy/) also has a fundamentals course that give you the core skills necessary to learn this.
+> CompSci Academy — https://compsci.academy/
