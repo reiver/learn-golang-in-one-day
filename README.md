@@ -183,7 +183,7 @@ A **program** that is meant to be used by a regular person is called an **applic
 
 We often shorten **application** to just **app**.
 
-(On your mobile phone, you often have icons you can touch to start the **app**.)
+(On your mobile phone, you often have icons you can touch to start an **app**.)
 
 ### Example Programs
 
