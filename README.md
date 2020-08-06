@@ -82,7 +82,7 @@ That is great, this _workshop_ is for you!
   * [Exercise — Infix Multifunctional Calculator](#exercise--infix-multifunctional-calculator)
   * [Exercise — Infix Looping Calculator](#exercise--infix-looping-calculator)
   * [Exercise — Infix Exiting Looping Calculator](#exercise--exiting-infix-looping-calculator)
-* [Thank You]
+* [Thank You](#thank-you)
 
 ____________________
 
