@@ -58,7 +58,7 @@ That is great, this _workshop_ is for you!
   * [PLAY.GOLANG.ORG — functions — Many Faces](#playgolangorg--functions--many-faces)
   * [Exercise — Many Many Faces](#exercise--many-many-faces)
 * CLI
-  * [CLI](#cli)
+  * [CLI Development Environment](#cli-development-environment)
   * [Exercise — CLI — fmt.Println() × 5](#exercise--cli--fmtprintln--5)
   * [CLI — rcv.Readln()](#cli--rcvreadln)
   * [CLI — Adding Calculator](#cli--adding-calculator)
@@ -1204,6 +1204,10 @@ ____________________
 
 ## CLI
 
+____________________
+
+### CLI Development Environment
+
 We are going to switch things up now. We are going to switch to an alternative Go **development environment**.
 
 So far we haev been using the **Go Playground** — https://play.golang.org/
@@ -1239,7 +1243,7 @@ If you are having trouble locating the outputted text, it is here:
 
 ![Screenshot of Go CLI after the default Go code was run with arrow pointing to output](x/images/go-cli_ran-with-arrow.png)
 
-## Exercise — CLI — fmt.Println() × 5
+### Exercise — CLI — fmt.Println() × 5
 
 Because this**repl.it for Go**— https://repl.it/languages/go — is new to us.
 
@@ -1251,7 +1255,7 @@ Write a **Go** program that outputs 5 lines using the **repl.it for Go** — htt
 
 (You decide what each of those lines are.)
 
-## CLI — rcv.Readln()
+### CLI — rcv.Readln()
 
 So far we have been outputting content — using `fmt.Println()`.
 
@@ -1365,7 +1369,7 @@ And as we can see, we got the output from the third, and final part of the code:
 	fmt.Println("YOU ENTERED:", line)
 ```
 
-## CLI — Adding Calculator
+### CLI — Adding Calculator
 
 We now have the skills necessary to create our own very basic **calculator**.
 
@@ -1404,7 +1408,7 @@ func main() {
 
 Run this program and see if it works.
 
-## Exercise — Subtracting Calculator
+### Exercise — Subtracting Calculator
 
 ## CLI — switch
 
