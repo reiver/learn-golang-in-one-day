@@ -57,7 +57,7 @@ That is great, this _workshop_ is for you!
   * [PLAY.GOLANG.ORG — functions](#playgolangorg--functions)
   * [PLAY.GOLANG.ORG — functions — Many Faces](#playgolangorg--functions--many-faces)
   * [Exercise — Many Many Faces](#exercise--many-many-faces)
-* CLI
+* [CLI](#cli)
   * [CLI Development Environment](#cli-development-environment)
   * [Exercise — CLI — fmt.Println() × 5](#exercise--cli--fmtprintln--5)
   * [CLI — rcv.Readln()](#cli--rcvreadln)
