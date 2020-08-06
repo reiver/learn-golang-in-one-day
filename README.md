@@ -105,7 +105,7 @@ Years Programming (as of August 2020):
 > 25+ years
 
 Autodidacticism:
-> Originally a self-taught programmer — i.e., learned from reading (physical paper) books & (physical paper) magazines (back before the Internet was common).
+> Originally a self-taught programmer — i.e., learned programming from reading (physical paper) books & (physical paper) magazines (back before the Internet was common).
 
 Formal Background:
 > Computer Science & Mathematics (& some physics).
