@@ -1248,13 +1248,17 @@ Write a **Go** program that outputs 5 lines.
 
 So far we have been outputting content — using `fmt.Println()`.
 
-Now let's get input — let's make it so the user can type in things, to communicate with our program.
+Now let's get input — let's make it so the user can type things in, and communicate with our program.
 
 We are going to use `rcv.Readln()` for this — which will **read a line** that the user types in.
 
-The keen observes might have guessed that **“Readln”** is short for **“read line”**.
-
+The keen observers our there might have guessed that **“Readln”** is short for **“read line”**.
 (This is similar to how **“Println”** is short for **“print line”**.)
+
+The `rcv.Readln()` will make a program wait for the user to type something, and then press the `ENTER` key to tell the program that the user is done giving input.
+
+**That means that when you run the program it will sit there and wait.**
+And if you don't press the `ENTER` key, it will keep waiting for you.
 
 So let's look at some basic code:
 ```Go
@@ -1268,14 +1272,80 @@ import (
 
 func main() {
 
-	fmt.Println("Enter something (and press the [ENTER] key when you are done):")
+	fmt.Println("Enter something.")
+	fmt.Println("(press the [ENTER] key when you are done)")
 
 	var line string
 	rcv.Readln(&line)
 
-	fmt.Println("LINE:", line)
+	fmt.Println("YOU ENTERED:", line)
 }
 ```
+
+There are 3 parts to this code.
+
+The first part of the is this:
+```Go
+	fmt.Println("Enter something.")
+	fmt.Println("(press the [ENTER] key when you are done)")
+```
+
+It will output the message:
+
+> Enter something.
+> (press the [ENTER] key when you are done)
+
+The second part of the code is this:
+```Go
+	var line string
+	rcv.Readln(&line)
+```
+
+We are using our new `rcv.Readln()` function here.
+
+This will wait for the user to type something, and then press the `ENTER` key.
+
+After that happens, this code will store the line the user typed in the variable we named `line`.
+
+The third, and last part of the code is this:
+```Go
+	fmt.Println("YOU ENTERED:", line)
+```
+
+It will output what is in the `line` variable.
+That way we can see if everything worked.
+
+OK, let's run the code. When we run the code we should see:
+
+
+
+Which is what we expected. Remember, the first part of the code is this:
+```Go
+	fmt.Println("Enter something.")
+	fmt.Println("(press the [ENTER] key when you are done)")
+```
+
+… which outputted the message we see in that screenshot.
+
+And then the second part of the code is this:
+```Go
+	var line string
+	rcv.Readln(&line)
+```
+
+Which will wait for us to type something, and then (for us) to press the `ENTER` key.
+
+So, at this point the program is waiting for us to enter something.
+
+If we then type, for the sake of example, this:
+
+> apple BANANA Cherry
+
+We will see:
+
+And if we then press the `ENTER` key, we will then get:
+
+
 
 ## CLI — Adding Calculator
 
