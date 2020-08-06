@@ -11,10 +11,11 @@ That is great, this _workshop_ is for you!
 
 ## Table of Contents
 
-* [Words and Meanings](#words-and-meanings)
-* [Example Programs](#example-programs)
-* [How To Learn](#how-to-learn)
-* [One Secret Of Success: Perseverance](#one-secret-of-success-perseverance)
+* [Preamble](#preamble)
+  * [Words and Meanings](#words-and-meanings)
+  * [Example Programs](#example-programs)
+  * [How To Learn](#how-to-learn)
+  * [One Secret Of Success: Perseverance](#one-secret-of-success-perseverance)
 * fmt.Println()
   * [PLAY.GOLANG.ORG](#playgolangorg)
   * [PLAY.GOLANG.ORG — Hello world!](#playgolangorg--hello-world)
@@ -81,7 +82,19 @@ That is great, this _workshop_ is for you!
   * [Exercise — Infix Looping Calculator](#exercise--infix-looping-calculator)
   * [Exercise — Infix Exiting Looping Calculator](#exercise--exiting-infix-looping-calculator)
 
-## Words and Meanings
+____________________
+
+____________________
+
+____________________
+
+____________________
+
+## Preamble
+
+____________________
+
+### Words and Meanings
 
 People write **source code**.  For example:
 ```Go
@@ -138,7 +151,7 @@ A **program** that is meant to be used by a regular person is called an **applic
 
 We often shorten **application** to just **app**.
 
-## Example Programs
+### Example Programs
 
 Mobile phones have **programs** on them. Some of the programs on mobile phones get called “apps”.
 But the “Android” & “iOS” _operating systems_ that run many of these phones are also **programs**.
@@ -155,14 +168,14 @@ Etc etc etc.
 
 **Programs** are all over the place.
 
-## How To Learn
+### How To Learn
 
 EVEN THOUGH I HAVE SHOWN ALL THE CODE HERE.
 DO NOT COPY-AND-PASTE THE CODE.
 TYPE OUT THE CODE YOURSELF.
 TYPING OUT THE CODE YOURSELF WILL HELP YOU LEARN TO CODE.
 
-## One Secret Of Success: Perseverance
+### One Secret Of Success: Perseverance
 
 Here is one the secrets to **learning** how to code.
 
@@ -203,6 +216,14 @@ but that is what programming is like.
 
 And if you learn how to do this, and choose to pursue a career doing this, you can get paid a lot _because_ you are willing to **persevere** —
 _because_ you are willing to work for hours, weeks, months, or even years, on a problem until you figure it out and solve it.
+
+____________________
+
+____________________
+
+____________________
+
+____________________
 
 ## PLAY.GOLANG.ORG
 
