@@ -1246,6 +1246,37 @@ Write a **Go** program that outputs 5 lines.
 
 ## CLI — rcv.Readln()
 
+So far we have been outputting content — using `fmt.Println()`.
+
+Now let's get input — let's make it so the user can type in things, to communicate with our program.
+
+We are going to use `rcv.Readln()` for this — which will **read a line** that the user types in.
+
+The keen observes might have guessed that **“Readln”** is short for **“read line”**.
+
+(This is similar to how **“Println”** is short for **“print line”**.)
+
+So let's look at some basic code:
+```Go
+package main
+
+import (
+	"github.com/reiver/go-rcv"
+
+	"fmt"
+)
+
+func main() {
+
+	fmt.Println("Enter something (and press the [ENTER] key when you are done):")
+
+	var line string
+	rcv.Readln(&line)
+
+	fmt.Println("LINE:", line)
+}
+```
+
 ## CLI — Adding Calculator
 
 We now have the skills necessary to create our own very basic **calculator**.
