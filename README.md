@@ -1259,6 +1259,8 @@ Write a **Go** program that outputs 5 lines using the **repl.it for Go** — htt
 
 ### CLI — rcv.Readln()
 
+(OK, so let's now get to the reason we switched from the **Go Playground** to **repl.it for Go**.)
+
 So far we have been outputting content — using `fmt.Println()`.
 
 Now let's get input — let's make it so the user can type things in, and communicate with our program.
@@ -1373,15 +1375,13 @@ And as we can see, we got the output from the third, and final part of the code:
 
 ### CLI — Adding Calculator
 
-We now have the skills necessary to create our own very basic **calculator**.
+Now that we have learned about `rcv.Readln()` we have sufficient tools to create our own very basic **calculator**.
 
-In fact, our calculator will be very very very basic.
+This calculator will be very very very basic — all it will do it _add_ 2 numbers together that we give it. But it will work.
 
-All it will do it add 2 numbers that we give it.
+Here is the code….
 
-Here is the code.
-
-REMEMBER, TYPE THIS CODE OUT YOURSELF. DO NOT COPY-AND-PASTE IT. TYPING IT OUT WILL HELP YOU LEARN IT.
+**REMEMBER, TYPE THIS CODE OUT YOURSELF. DO NOT COPY-AND-PASTE IT. TYPING IT OUT WILL HELP YOU LEARN IT.**
 
 ```Go
 package main
@@ -1408,9 +1408,100 @@ func main() {
 }
 ```
 
-Run this program and see if it works.
+This is what this will look like in **repl.it for Go** — https://repl.it/languages/go
 
-### Exercise — Subtracting Calculator
+
+
+And when we run this program we will see:
+
+
+
+This makes sense because — first — the first part of the code is run:
+```Go
+	fmt.Println("Please provide the first number:")
+```
+
+Which outputs the message:
+
+> Please provide the first number:
+
+Which is what we see in the screenshot.
+
+And then after this, the second part of the code is run:
+```Go
+	var firstNumber int
+	rcv.Readln(&firstNumber)
+```
+
+This part of the code waits for the user to type in something and then press the `ENTER` key.
+
+In this case _the user_ is us. And since we have no pressed the `ENTER` key yet, it will just sit there and wait for us (until we do).
+
+So, let's type in:
+
+> 33
+
+When we do that, we will see:
+
+
+
+And then, if we press the `ENTER` key, the line we entered will get stored in that `firstNumber` variable.
+
+And we will see:
+
+
+What we see in this screenshot also makes sense, because what happened next (after we pressed the `ENTER` key) is that the third part of the code was run:
+```Go
+	fmt.Println("Please provide the second number:")
+```
+
+Which outputted the message:
+
+> Please provide the second number:
+
+Which is what see in the screenshot.
+
+And then, after that, the fourth part of the code is run:
+```Go
+	var secondNumber int
+	rcv.Readln(&secondNumber)
+```
+
+Like when we used the `rcv.Readln()` function before — this part of the code waits for the user to type in something and then press the `ENTER` key.
+
+Again, in this case _the user_ is us. And since we have no pressed the `ENTER` key yet, it will just sit there and wait for us (until we do).
+
+So, let's type in:
+
+> 22
+
+When we do that, we will see:
+
+
+And then, if we press the `ENTER` key, the line we entered will get stored in that `secondNumber` variable.
+
+And we will see:
+
+
+Which makes sense because what happened next is the fifth part of the code was run:
+```Go
+	fmt.Println("Result:")
+	fmt.Println(firstNumber + secondNumber)
+```
+
+Which outputted:
+
+> Result:
+> 55
+
+And the second line of output there is 55 because `firstNumber` has 33 in it, and `secondNumber` has 22 in it.
+And `firstNumber` has 33 in it, and `secondNumber` has 22 in it because those are the numbers we typed in.
+
+### Exercise — CLI — Subtracting Calculator
+
+Now it is your turn to do some coding.
+
+We will keep it simple, because the point of this example 
 
 ## CLI — switch
 
