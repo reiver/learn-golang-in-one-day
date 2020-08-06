@@ -1290,7 +1290,7 @@ The first part of the is this:
 	fmt.Println("(press the [ENTER] key when you are done)")
 ```
 
-It will output the message:
+This will output 2 lines — since there are 2 `fmt.Println()` calls. And those 2 lines will be:
 
 > Enter something.
 > (press the [ENTER] key when you are done)
@@ -1305,7 +1305,7 @@ We are using our new `rcv.Readln()` function here.
 
 This will wait for the user to type something, and then press the `ENTER` key.
 
-After that happens, this code will store the line the user typed in the variable we named `line`.
+After that happens — after the user presses the `ENTER` key — this code will store what the user typed in the variable we named `line`.
 
 The third, and last part of the code is this:
 ```Go
@@ -1315,7 +1315,9 @@ The third, and last part of the code is this:
 It will output what is in the `line` variable.
 That way we can see if everything worked.
 
-OK, let's run the code. When we run the code we should see:
+OK, let's run the code.
+
+When we run this code we should see:
 
 
 
@@ -1337,15 +1339,24 @@ Which will wait for us to type something, and then (for us) to press the `ENTER`
 
 So, at this point the program is waiting for us to enter something.
 
+OK, so let's enter something….
+
 If we then type, for the sake of example, this:
 
 > apple BANANA Cherry
 
 We will see:
 
+
+
 And if we then press the `ENTER` key, we will then get:
 
 
+
+And as we can see, we got the output from the third, and final part of the code:
+```Go
+	fmt.Println("YOU ENTERED:", line)
+```
 
 ## CLI — Adding Calculator
 
