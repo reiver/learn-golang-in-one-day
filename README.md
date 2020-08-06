@@ -1395,12 +1395,12 @@ import (
 func main() {
 	fmt.Println("Please provide the first number:")
 
-	var firstNumber int
+	var firstNumber int64
 	rcv.Readln(&firstNumber)
 
 	fmt.Println("Please provide the second number:")
 
-	var secondNumber int
+	var secondNumber int64
 	rcv.Readln(&secondNumber)
 
 	fmt.Println("Result:")
@@ -1429,7 +1429,7 @@ Which is what we see in the screenshot.
 
 And then after this, the second part of the code is run:
 ```Go
-	var firstNumber int
+	var firstNumber int64
 	rcv.Readln(&firstNumber)
 ```
 
@@ -1463,7 +1463,7 @@ Which is what see in the screenshot.
 
 And then, after that, the fourth part of the code is run:
 ```Go
-	var secondNumber int
+	var secondNumber int64
 	rcv.Readln(&secondNumber)
 ```
 
@@ -1531,12 +1531,12 @@ import (
 func main() {
 	fmt.Println("Please provide the first number:")
 
-	var firstNumber int
+	var firstNumber int64
 	rcv.Readln(&firstNumber)
 
 	fmt.Println("Please provide the second number:")
 
-	var secondNumber int
+	var secondNumber int64
 	rcv.Readln(&secondNumber)
 
 	fmt.Println("Please tell me what operation you want to do:")
@@ -1544,7 +1544,7 @@ func main() {
 	var operation string
 	rcv.Readln(&operation)
 
-	var result int
+	var result int64
 	switch operation {
 	case "+":
 		result = firstNumber + secondNumber
