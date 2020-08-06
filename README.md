@@ -1214,6 +1214,8 @@ So far we haev been using the **Go Playground** — https://play.golang.org/
 
 Now we are going to switch to **repl.it for Go** — https://repl.it/languages/go
 
+(We are making this switch because the **Go Playground** doesn't allow us to get input from the user, but **repl.it for Go** does.)
+
 When you go to https://repl.it/languages/go you should see something similar to:
 
 ![Screenshot of Go CLI](x/images/go-cli.png)
