@@ -124,7 +124,7 @@ Longer Bio:
 
 ### Words and Meanings
 
-People write **source code**.  For example:
+People write **source code**.  For example, this is source code:
 ```Go
 package main
 
@@ -143,7 +143,9 @@ So — people write **code**.
 
 Why do people write **code** — People write **code** to tell computers what to do.
 
-The people who write **code** are often called:
+(In this workshop we will be telling computers what to do — and we will write this instructions to the computer in the **Go** programming language.)
+
+A person who writes **code** is commonly called:
 
 * **computer programmer**,
 * **programmer**,
@@ -171,7 +173,7 @@ The act of writing **code** is often called:
 * **programming**, or
 * **coding**.
 
-Often ‘computers’ do NOT understand the **code**. In these cases the **code** can be turned into a **program**.
+Often ‘computers’ do NOT understand the **code** directly. In these cases the **code** can be turned into a **program**.
 
 The **program** will contain **instructions** that the ‘computer’ will understand.
 
@@ -181,8 +183,8 @@ We often shorten **application** to just **app**.
 
 ### Example Programs
 
-Mobile phones have **programs** on them. Some of the programs on mobile phones get called “apps”.
-But the “Android” & “iOS” _operating systems_ that run many of these phones are also **programs**.
+Mobile phones have **programs** on them. Some of the programs on mobile phones get called **“apps”**.
+But the “Android” & “iOS” _operating systems_ that run many of these mobile phones are also **programs** (but are _not_ **apps**).
 
 Laptops computers also have **programs** on them.
 
