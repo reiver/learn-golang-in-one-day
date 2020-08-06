@@ -60,7 +60,7 @@ That is great, this _workshop_ is for you!
 * CLI
   * [CLI](#cli)
   * [CLI — fmt.Println() × 5](#cli--fmtprintln--5)
-  * [CLI — fmt.Scan()](#cli--fmtscan)
+  * [CLI — rcv.Readln()](#cli--rcvreadln)
   * [CLI — Adding Calculator](#cli--adding-calculator)
   * [Exercise — Subtracting Calculator](#exercise--subtracting-calculator)
 * Go `switch`
@@ -1244,7 +1244,7 @@ Write a **Go** program that outputs 5 lines.
 
 (You decide what each of those lines are.)
 
-## CLI — fmt.Scan()
+## CLI — rcv.Readln()
 
 ## CLI — Adding Calculator
 
@@ -1262,6 +1262,8 @@ REMEMBER, TYPE THIS CODE OUT YOURSELF. DO NOT COPY-AND-PASTE IT. TYPING IT OUT W
 package main
 
 import (
+	"github.com/reiver/go-rcv"
+
 	"fmt"
 )
 
@@ -1269,12 +1271,12 @@ func main() {
 	fmt.Println("Please provide the first number:")
 
 	var firstNumber int
-	fmt.Scan(&firstNumber)
+	rcv.Readln(&firstNumber)
 
 	fmt.Println("Please provide the second number:")
 
 	var secondNumber int
-	fmt.Scan(&secondNumber)
+	rcv.Readln(&secondNumber)
 
 	fmt.Println("Result:")
 	fmt.Println(firstNumber + secondNumber)
@@ -1305,6 +1307,8 @@ Here is our **Go** **code** for that:
 package main
 
 import (
+	"github.com/reiver/go-rcv"
+
 	"fmt"
 )
 
@@ -1312,17 +1316,17 @@ func main() {
 	fmt.Println("Please provide the first number:")
 
 	var firstNumber int
-	fmt.Scan(&firstNumber)
+	rcv.Readln(&firstNumber)
 
 	fmt.Println("Please provide the second number:")
 
 	var secondNumber int
-	fmt.Scan(&secondNumber)
+	rcv.Readln(&secondNumber)
 
 	fmt.Println("Please tell me what operation you want to do:")
 
 	var operation string
-	fmt.Scan(&operation)
+	rcv.Readln(&operation)
 
 	var result int
 	switch operation {
@@ -1430,11 +1434,15 @@ But we need learn something _before_ can make this happen.
 
 At this point, we need to learn about the **`strings.Split()`** function, and **Go slices**.
 
-So, because we want to focus on those two, let's for now work with simpler code (than our full-blown calculator):
+So, because we want to focus on learning about the **`strings.Split()`** function, and **Go slices**, for now let's work with simpler piece of code (than our full-blown calculator)
+
+Let's work on this:
 ```Go
 package main
 
 import (
+	"github.com/reiver/go-rcv"
+
 	"fmt"
 )
 
@@ -1443,11 +1451,32 @@ func main() {
 	fmt.Println("Please enter a mathematical expression:")
 
 	var expression string
-	fmt.Scan(&expression)
+	rcv.Readln(&expression)
 }
 ```
 
-If we run that, we will see this:
+This code is very simple. Is basically has 2 parts to it.
+
+The first part:
+```Go
+	fmt.Println("Please enter a mathematical expression:")
+```
+
+… will output the message:
+
+> Please enter a mathematical expression:
+
+And the second part:
+```Go
+	var expression string
+	rcv.Readln(&expression)
+```
+
+… gets input from the user, and stores it in the variable `expression`.
+
+(With this version of this code, we aren't yet doing anything with the user input we stores in the `expression` variable.)
+
+If we run this code, we will see this:
 
 
 In that screenshot, we ran it, but the program is waiting for use to _enter a mathematical expression_:
@@ -1460,7 +1489,34 @@ So we will enter:
 Which you can see here:
 
 
+And then nothing happens after that. Which is fine, since that is what we expected to happen.
 
+What we want to do now is to be able to separate out the `3`, the `+`, and the `2`.
+
+How do we do that?
+
+That is where the `strings.Split()` function comes into play.
+
+Take a look at this code:
+```Go
+package main
+
+import (
+	"fmt"
+	"strings"
+)
+
+func main() {
+
+	fmt.Println("Please enter a mathematical expression:")
+
+	var expression string
+	fmt.Readln(&expression)
+
+	tokens := strings.Split(expression, " ")
+	fmt.Println(tokens)
+}
+```
 
 
 ### Infix Adding Calculator
