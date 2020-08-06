@@ -143,7 +143,7 @@ So — people write **code**.
 
 Why do people write **code** — People write **code** to tell computers what to do.
 
-(In this workshop we will be telling computers what to do — and we will write thes instructions to the computer in the **Go** programming language.)
+(In this workshop we will be telling computers what to do — and we will write these instructions to the computer in the **Go** programming language.)
 
 A person who writes **code** is commonly called:
 
