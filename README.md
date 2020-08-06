@@ -12,6 +12,7 @@ That is great, this _workshop_ is for you!
 ## Table of Contents
 
 * [Preamble](#preamble)
+  * [Who Am I](#who-am-i)
   * [Words and Meanings](#words-and-meanings)
   * [Example Programs](#example-programs)
   * [How To Learn](#how-to-learn)
@@ -93,6 +94,32 @@ ____________________
 ## Preamble
 
 ____________________
+
+### Who Am I
+
+Name:
+> [Charles Iliya Krempeaux](http://changelog.ca/)
+
+Years Programming (as of August 2020):
+> 25+ years
+
+Autodidacticism:
+> Originally a self-taught programmer — i.e., learned from reading (physical paper) books & (physical paper) magazines (back before the Internet was common).
+
+Formal Background:
+> Computer Science & Mathematics (& some physics).
+
+Some Past Companies:
+> Koho, Hootsuite, Electronic Arts (EA), Microsoft (via BidClix, Accipiter, aQuantive), etc etc etc… plus many other companies.
+
+Current Companies:
+> [CompSci Academy](https://compsci.academy/), Spark, [Railtown Ventures](https://rail.town/), etc.
+
+Bio:
+> Charles Iliya Krempeaux has more than ¼ century professional experience — entrepreneur, advisor, executive (CEO, CTO), product researcher, product developer, computer scientist, software engineer, board member, chairman.
+
+Longer Bio:
+> http://changelog.ca/
 
 ### Words and Meanings
 
