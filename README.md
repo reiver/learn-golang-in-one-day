@@ -13,6 +13,7 @@ That is great, this _workshop_ is for you!
 
 * [Preamble](#preamble)
   * [Who Am I](#who-am-i)
+  * [Who Is This Workshop For](#who-is-this-workshop-for)
   * [Words and Meanings](#words-and-meanings)
   * [Example Programs](#example-programs)
   * [How To Learn](#how-to-learn)
@@ -122,6 +123,26 @@ Bio:
 
 Longer Bio:
 > http://changelog.ca/
+
+### Who Is This Workshop For
+
+I expected there to be a mix of people taking this workshop.
+Therefore I designed this workshop multiple types of people.
+
+For some people taking this workshop, this will be their first time programming ever!
+
+For other people taking this workshop, you might not know Go, but you might know another programming language.
+
+And everyone in-between.
+For example, some will have tried learning to program on their own, but want the experience of learning with others.
+
+This workshop is for all of you.
+
+What does that mean —
+
+I am going to teach this in such as way that, not only will you learn Go, but you will also learn programming.
+
+For those that already know another programming language, this might make things a bit slower than you could (obviously) handle — how hopefully you bear with us.
 
 ### Words and Meanings
 
