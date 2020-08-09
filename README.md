@@ -1841,40 +1841,6 @@ ____________________
 
 ____________________
 
-## CLI — os.Open()
-
-## CLI — io.Read
-
-## CLI — Interpreter
-
-## Exercise — Add Division To The Interpreter
-
-## CLI — io.Write
-
-## drawing — size
-
-## drawing — Animation
-
-## drawing — MouseX & MouseY
-
-## drawing — MousePressed
-
-## drawing — if
-
-## drawing — if-else
-
-## drawing — func
-
-## Exercise — Many Faces
-
-____________________
-
-____________________
-
-____________________
-
-____________________
-
 ## Thank You
 
 Connect With Me:
