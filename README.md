@@ -84,6 +84,8 @@ That is great, this _workshop_ is for you!
   * [Exercise — Infix Multifunctional Calculator](#exercise--infix-multifunctional-calculator)
   * [Exercise — Infix Looping Calculator](#exercise--infix-looping-calculator)
   * [Exercise — Infix Exiting Looping Calculator](#exercise--exiting-infix-looping-calculator)
+* [Go Maps](#go-maps)
+* [Go Structs](#go-structs)
 * [Thank You](#thank-you)
 
 ____________________
@@ -1861,6 +1863,27 @@ ____________________
 ____________________
 
 ____________________
+
+## Go Maps
+
+____________________
+
+____________________
+
+____________________
+
+____________________
+
+## Go Structs
+
+____________________
+
+____________________
+
+____________________
+
+____________________
+
 
 ## Thank You
 
